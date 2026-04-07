@@ -1,0 +1,16 @@
+Insight / results 
+
+1. **Sales Performance Over Time**: Identify peak sales periods and seasonality to optimize marketing efforts and stock levels.
+2. **Top Performing Products**: Identify best-selling products to focus marketing efforts and inventory management.
+3. **Category-Based Sales Analysis**: Understand which product categories generate the most revenue to allocate resources effectively.
+4. **Customer Segmentation Based on Spending**: Segment customers by spending to create targeted loyalty programs and promotions.
+5. **Impact of Discounts on Sales**: Measure how discounts affect sales to refine promotional strategies.
+6. **Payment Method Preferences**: Identify the most popular payment methods to optimize checkout processes and payment options.
+7. **Geographic Performance Analysis**: Analyze sales by region or city to target underperforming areas and optimize stock distribution.
+8. **Sales by Quantity vs. Total Revenue**: Balance inventory and pricing strategies between high-quantity, low-revenue and low-quantity, high-revenue items.
+9. **Shipping and Delivery Insights**: Analyze shipping delays to improve logistics and customer satisfaction.
+10. **Product Demand Over Time**: Track product demand fluctuations to adjust inventory and marketing efforts.
+11. **Return and Refund Analysis**: Analyze return reasons to improve product quality and customer experience.
+12. **Customer Retention Insights**: Measure repeat purchase frequency to implement effective retention strategies.
+13. **Profitability by Product**: Assess product profitability to optimize pricing and cost management.
+14. **Order Frequency and AOV**: Use promotions to increase average order value and encourage repeat purchases.
