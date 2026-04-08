@@ -1,123 +1,70 @@
 Order_ID,Customer Name,Email,Product,Category,Quantity,Unit Price,Total,Order Date,Ship Date,City,Country,Payment Method,Status,Discount%,Region,Discounted_Total
-ORD-0002,Sophie Brown,  sophie.brown@email.com  ,phone case,accessories,2.0,19.99,39.98,2024-01-22,2024-01-26 00:00:00,Berlin,Germany,Google Pay,Shipped,0.0,North America,39.98
 ORD-0003,Wei Chen,wei.chen@email.com,tablet,electronics,9.0,4999.9,44999.1,2024-09-09,2024-09-21 00:00:00,Abu Dhabi,UAE,Cash on Delivery,Cancelled,15.0,Asia,38249.235
-ORD-0004,James O'Brien,Not Provided,smart watch,electronics,10.0,249.99,2499.9,2024-04-05,2024-04-11 00:00:00,New York,USA,Google Pay,Returned,0.0,Africa,2499.9
 ORD-0005,Ahmed Al-Farsi,ahmed.alfarsi@email.com,power bank,accessories,4.0,39.99,159.96,2024-10-08,2024-10-09 00:00:00,Dammam,Saudi Arabia,Apple Pay,Delivered,5.0,Middle East,151.96200000000002
-ORD-0006,Emma Wilson,emma.wilson@email.com,power bank,accessories,2.0,39.99,79.98,2024-01-21,2024-01-30 00:00:00,Riyadh,Saudi Arabia,Goggle Pay,refund,,asia,
 ORD-0008,Maria Garcia,maria.garcia@email.com,power bank,accessories,3.0,39.99,119.97,2024-05-10,2024-05-20 00:00:00,Cairo,Egypt,PayPal,Shipped,10.0,Africa,107.973
 ORD-0008,Maria Garcia,maria.garcia@email.com,power bank,accessories,3.0,39.99,119.97,2024-10-05,2024-05-20 00:00:00,Cairo,Egypt,PayPal,Shipped,10.0,Africa,107.973
 ORD-0011,Omar Nasser,omar.nasser@email.com,hdmi cable,accessories,10.0,12.99,129.9,2024-10-21,2024-10-27 00:00:00,Doha,Qatar,Bank Transfer,Pending,5.0,Africa,123.405
 ORD-0011,Omar Nasser,omar.nasser@email.com,hdmi cable,accessories,10.0,12.99,129.9,2024-10-21,2024-10-27 00:00:00,Doha,Qatar,Bank Transfer,pending,5.0,Africa,123.405
 ORD-0012,Chen Wei,chen.wei@email.com,smart watch,electronics,8.0,249.99,1999.92,2024-01-18,2024-01-22 00:00:00,Dubai,UAE,Debit Card,Refunded,25.0,Oceania,1499.94
-ORD-0013,Emma Wilson,Not Provided,hdmi cable,accessories,1.0,12.99,12.99,2024-04-27,2024-05-04 00:00:00,Sydney,Australia,Cash on Delivery,Pending,0.0,Africa,12.99
-ORD-0013,Emma Wilson,Not Provided,hdmi cable,accessories,1.0,12.99,12.99,2024-04-27,2024-05-04 00:00:00,Sydney,Japan,Cash on Delivery,Pending,0.0,Africa,12.99
 ORD-0015,Chen Wei,chen.wei@email.com,charger,accessories,10.0,24.99,249.89999999999998,2024-02-26,2024-03-07 00:00:00,Jeddah,Saudi Arabia,Cash on Delivery,Cancelled,200.0,Middle East,-249.89999999999998
 ORD-0016,Nora Ali,nora.ali@email.com,webcam,electronics,10.0,79.99,799.9,2024-12-09,2024-12-18 00:00:00,Riyadh,Saudi Arabia,Debit Card,Delivered,5.0,Africa,759.905
-ORD-0017,Unknown,Not Provided,phone case,accessories,5.0,19.99,99.94999999999999,2024-04-12,2024-04-15 00:00:00,Berlin,Germany,Apple Pay,Returned,0.0,Europe,99.94999999999999
-ORD-0018,Yuki Tanaka,yuki.tanaka@email.com,hdmi cable,accessories,5.0,12.99,64.95,2024-10-20,2024-10-21 00:00:00,Sharjah,UAE,Credit Card,Refunded,,Oceania,
-ORD-0021,Priya Sharma,priya.sharma@email.com,external ssd,electronics,9.0,129.99,1169.91,2024-03-13,2024-03-17 00:00:00,Sharjah,UAE,Apple Pay,Shipped,,Europe,
-ORD-0022,Sara Khan,Not Provided,keyboard,accessories,9.0,59.99,539.91,2024-10-11,2024-10-25 00:00:00,Dubai,UAE,Google Pay,Cancelled,0.0,Africa,539.91
 ORD-0023,Ahmed Al-Farsi,ahmed.alfarsi@email.com,wireless mouse,electronics,6.0,29.99,179.94,2024-01-10,2024-01-16 00:00:00,Toronto,Canada,Debit Card,Shipped,20.0,Africa,143.952
 ORD-0024,Ahmed Al-Farsi,ahmed.alfarsi@email.com,speaker,electronics,5.0,89.99,449.95,2024-01-19,2024-02-02 00:00:00,Jeddah,Saudi Arabia,Apple Pay,Cancelled,10.0,Asia,404.955
 ORD-0025,Maria Garcia,Not Provided,external ssd,electronics,2.0,129.99,259.98,2024-03-25,2024-03-29 00:00:00,Sydney,Australia,Google Pay,Returned,15.0,Middle East,220.983
-ORD-0027,Unknown,viktor.petrov@email.com,laptop,electronics,5.0,899.99,4499.95,2024-03-05,2024-03-14 00:00:00,Tokyo,Japan,Debit Card,Delivered,0.0,Asia,4499.95
 ORD-0028,Alex Johnson,alex.johnson@email.com,power bank,accessories,6.0,39.99,239.94,2024-07-20,2024-07-29 00:00:00,Berlin,germany,Cash on Delivery,Returned,20.0,Middle East,191.952
-ORD-0029,Layla Ibrahim,layla.ibrahim@email.com,wireless mouse,electronics,5.0,29.99,149.95,2024-10-10,2024-10-16 00:00:00,Dubai,UAE,Cash on Delivery,Shipped,0.0,Oceania,149.95
-ORD-0030,Fatima Hassan,Not Provided,mouse pad,accessories,5.0,14.99,74.95,2024-12-11,2024-12-24 00:00:00,Abu Dhabi,UAE,Credit Card,Delivered,0.0,Asia,74.95
 ORD-0031,David Lee,david.lee@email.com,usb cable,accessories,7.0,9.99,69.93,2024-12-02,2024-12-09 00:00:00,Riyadh,Saudi Arabia,Credit Card,Refunded,15.0,Africa,59.44050000000001
 ORD-0032,FATIMA HASSAN,fatima.hassan@email.com,keyboard,accessories,2.0,59.99,119.98,2024-03-25,2024-04-05 00:00:00,Muscat,Oman,Google Pay,Returned,25.0,Oceania,89.985
-ORD-0033,Wei Chen,wei.chen@email.com,wireless mouse,electronics,8.0,29.99,239.92,2024-02-26,2024-03-11 00:00:00,Paris,France,Credit Card,Returned,0.0,Middle East,239.92
 ORD-0034,James O'Brien,james.obrien@email.com,keyboard,accessories,9.0,59.99,539.91,2024-02-21,2024-03-03 00:00:00,Singapore,Singapore,PayPal,Delivered,15.0,Europe,458.9235
 ORD-0035,Anna Müller,anna.müller@email.com,stylus pen,accessories,4.0,34.99,139.96,2024-06-22,2024-07-02 00:00:00,Doha,Qatar,Google Pay,Processing,150.0,Africa,-69.97999999999999
 ORD-0036,Unknown,Not Provided,wireless mouse,electronics,5.0,29.99,149.95,2024-08-23,2024-08-18 00:00:00,London,UK,Apple Pay,Cancelled,25.0,Africa,112.46249999999999
 ORD-0037,Unknown,lina.mansour@email.com,power bank,accessories,1.0,39.99,39.99,2024-07-28,2024-08-05 00:00:00,Jeddah,Saudi Arabia,Bank Transfer,Processing,10.0,Oceania,35.991
 ORD-0038,David Lee,david.lee@email.com,wireless mouse,electronics,6.0,29.99,179.94,2024-05-04,2024-05-17 00:00:00,Toronto,Canada,Bank Transfer,Pending,25.0,North America,134.95499999999998
 ORD-0039,Fatima Hassan,fatima.hassan@email.com,laptop,electronics,3.0,899.99,2699.9700000000003,2024-10-22,2024-11-04 00:00:00,Doha,Qatar,Debit Card,Delivered,5.0,Oceania,2564.9715
-ORD-0040,Ali Reza,ali.reza@email.com,printer,electronics,6.0,199.99,1199.94,2024-12-03,2024-12-12 00:00:00,Medina,Saudi Arabia,PayPal,Refunded,0.0,Oceania,1199.94
-ORD-0041,Tariq Mahmoud,tariq.mahmoudemail.com,keyboard,accessories,7.0,59.99,419.93,2024-09-28,2024-09-29 00:00:00,Dubai,Australia,Debit Card,Processing,0.0,Asia,419.93
-ORD-0042,Yuki Tanaka,yuki.tanaka@email.com,stylus pen,accessories,4.0,34.99,139.96,2024-11-13,2024-11-18 00:00:00,Doha,Qatar,Apple Pay,Delivered,0.0,North America,139.96
 ORD-0043,John Smith,john.smith@email.com,speaker,electronics,9.0,89.99,809.91,2024-08-08,2024-08-12 00:00:00,Abu Dhabi,Saudi Arabia,Credit Card,Delivered,10.0,North America,728.919
-ORD-0045,Priya Sharma,priya.sharma@email.com,wireless mouse,electronics,10.0,29.99,299.9,2024-12-04,2024-12-08 00:00:00,Riyadh,Saudi Arabia,PayPal,Cancelled,0.0,Africa,299.9
 ORD-0046,Nora Ali,nora.ali@email.com,stylus pen,accessories,6.0,34.99,209.94,2024-09-26,2024-10-08 00:00:00,Tokyo,Japan,Credit Card,Returned,20.0,North America,167.952
-ORD-0047,Viktor Petrov,viktor.petrov@email.com,stylus pen,accessories,8.0,34.99,279.92,2024-11-07,2024-11-20 00:00:00,Berlin,Saudi Arabia,PayPal,Pending,0.0,Middle East,279.92
 ORD-0049,Priya Sharma  #5,priya.sharma@email.com,tablet,electronics,3.0,499.99,1499.97,2024-08-05,2024-08-13 00:00:00,Sharjah,UAE,Bank Transfer,Pending,25.0,Africa,1124.9775
-ORD-0050,James O'Brien,james.obrien@email.com,laptop,electronics,4.0,8999.9,35999.6,2024-10-03,2024-10-04 00:00:00,Singapore,Singapore,Apple Pay,Delivered,0.0,Middle East,35999.6
 ORD-0051,Unknown,alex.johnson@email.com,phone case,accessories,2.0,19.99,39.98,2024-01-26,2024-02-06 00:00:00,Singapore,Singapore,Google Pay,Delivered,5.0,Africa,37.980999999999995
 ORD-0052,Sara Khan,sara.khan@email.com,mouse pad,accessories,7.0,14.99,104.93,2024-09-11,2024-09-23 00:00:00,Singapore,Singapore,Debit Card,Processing,20.0,Asia,83.944
 ORD-0053,Ahmed Al-Farsi,ahmed.alfarsi@email.com,phone case,accessories,4.0,19.99,79.96,2024-04-12,2024-12-16 00:00:00,Muscat,Oman,Apple Pay,Returned,5.0,North America,75.96199999999999
-ORD-0056,Alex Johnson,alex.johnson@email.com,power bank,accessories,10.0,39.99,399.90000000000003,2024-02-11,2024-11-05 00:00:00,Paris,France,Debit Card,Returned,0.0,Oceania,399.90000000000003
-ORD-0057,TARIQ MAHMOUD,tariq.mahmoud@email.com,charger,accessories,4.0,24.99,99.96,2024-12-03,2024-12-05 00:00:00,Tokyo,Japan,Bank Transfer,Pending,0.0,Oceania,99.96
 ORD-0058,Yuki Tanaka,Not Provided,stylus pen,accessories,2.0,34.99,69.98,2024-06-09,2024-06-13 00:00:00,Muscat,Oman,Cash on Delivery,Shipped,25.0,Middle East,52.485
 ORD-0059,Ahmed Al-Farsi,ahmed.alfarsi@email.com,external ssd,electronics,4.0,129.99,519.96,2024-08-26,2024-08-31 00:00:00,Dammam,Saudi Arabia,Google Pay,Refunded,20.0,Oceania,415.968
 ORD-0060,Ahmed Al-Farsi,ahmed.alfarsi@email.com,monitor,electronics,5.0,349.99,1749.95,2024-04-17,2024-04-29 00:00:00,Khobar,KSA,Cash on Delivery,Pending,5.0,North America,1662.4525
 ORD-0061,PRIYA SHARMA,priya.sharma@email.com,speaker,electronics,3.0,89.99,269.96999999999997,2024-03-21,2024-04-01 00:00:00,Singapore,Singapore,Credit Card,Pending,5.0,Africa,256.4715
-ORD-0062,Chen Wei,chen.wei@email.com,keyboard,accessories,9.0,59.99,539.91,2024-07-14,2024-07-24 00:00:00,London,UK,Bank Transfer,Cancelled,0.0,North America,539.91
-ORD-0063,LINA MANSOUR,lina.mansour@email.com,monitor,electronics,10.0,349.99,3499.9,2024-02-09,2024-02-22 00:00:00,Medina,Saudi Arabia,PayPal,Returned,0.0,Oceania,3499.9
-ORD-0064,Layla Ibrahim,layla.ibrahimemail.com,smart watch,electronics,2.0,249.99,499.98,2024-03-25,2024-04-07 00:00:00,Singapore,Singapore,PayPal,refund,0.0,Oceania,499.98
 ORD-0065,James O'Brien,Not Provided,charger,accessories,6.0,24.99,149.94,2024-09-19,2024-09-22 00:00:00,Abu Dhabi,Saudi Arabia,Bank Transfer,Refunded,15.0,Oceania,127.449
-ORD-0066,Unknown,emma.wilson@email.com,laptop,electronics,1.0,899.99,899.99,2024-12-11,2024-12-25 00:00:00,Dubai,UAE,Bank Transfer,Pending,0.0,North America,899.99
 ORD-0067,HASSAN YOUSSEF,  hassan.youssef@email.com  ,charger,accessories,1.0,24.99,24.99,2024-11-10,2024-11-14 00:00:00,Khobar,Saudi Arabia,Cash on Delivery,Shipped,20.0,Europe,19.991999999999997
 ORD-0068,Rajesh Patel,rajesh.patel@email.com,keyboard,accessories,5.0,59.99,299.95,2024-02-10,2024-02-12 00:00:00,Khobar,Saudi Arabia,Google Pay,Shipped,15.0,North America,254.95749999999998
 ORD-0069,Lina Mansour,lina.mansour@email.com,usb cable,accessories,5.0,9.99,49.95,2024-12-19,2024-12-30 00:00:00,Dammam,Saudi Arabia,Bank Transfer,Returned,15.0,Middle East,42.4575
 ORD-0070,Aisha Mohammed,aisha.mohammed@email.com,usb cable,accessories,8.0,9.99,79.92,2024-05-25,2024-06-08 00:00:00,Berlin,DE,Creadit Card,Returned,25.0,Middle East,59.94
-ORD-0071,Sana Bukhari,sana.bukhari@email.com,tablet,electronics,9.0,499.99,4499.91,2024-07-23,2024-07-29 00:00:00,Doha,Qatar,Credit Card,Returned,0.0,Africa,4499.91
-ORD-0072,CHEN WEI,chen.wei@email.com,wireless mouse,electronics,4.0,29.99,119.96,2024-06-05,2024-06-07 00:00:00,Mumbai,IN,Bank Transfer,RETURNED,0.0,Oceania,119.96
-ORD-0075,Anna Müller,anna.müller@email.com,keyboard,accessories,6.0,59.99,359.94,2024-12-06,2024-12-19 00:00:00,Paris,France,Credit Card,Shipped,0.0,Middle East,359.94
-ORD-0077,Unknown,sara.khan@email.com,charger,accessories,1.0,24.99,24.99,2024-06-09,2024-06-11 00:00:00,Dammam,Saudi Arabia,Debit Card,Canceled,0.0,Oceania,24.99
 ORD-0078,OMAR NASSER,omar.nasser@@email.com,headphones,electronics,5.0,149.99,749.95,2024-02-16,2024-03-01 00:00:00,Dubai,UAE,Google Pay,Cancelled,25.0,North America,562.4625000000001
-ORD-0079,Lina Mansour,lina.mansour@email.com,smart watch,electronics,10.0,249.99,2499.9,2024-11-20,2024-11-23 00:00:00,Dubai,UAE,Bank Transfer,Shipped,0.0,Asia,2499.9
 ORD-0081,layla ibrahim,layla.ibrahim@email.com,mouse pad,accessories,1.0,14.99,14.99,2024-09-26,2024-09-29 00:00:00,Dammam,Saudi Arabia,Apple Pay,Returned,150.0,Africa,-7.494999999999999
 ORD-0084,Priya Sharma,priya.sharma@email.com,mouse pad,accessories,4.0,14.99,59.96,2024-12-28,2025-01-02 00:00:00,Singapore,Singapore,PayPal,Processing,10.0,Africa,53.964
-ORD-0086,Priya Sharma,Not Provided,tablet,electronics,3.0,499.99,1499.97,2024-04-24,2024-04-25 00:00:00,Abu Dhabi,UAE,Debit Card,Delivered,,Oceania,
 ORD-0088,Emma Wilson,emma.wilson@email.com,webcam,electronics,2.0,79.99,159.98,2024-06-27,2024-07-03 00:00:00,New York,Oman,Bank Transfer,Cancelled,25.0,Europe,119.98499999999999
 ORD-0089,Sophie Brown,sophie.brown@email.com,tablet,electronics,6.0,499.99,2999.94,2024-09-17,2024-09-29 00:00:00,Sharjah,UAE,Bank Transfer,Pending,5.0,Africa,2849.943
-ORD-0091,Sara Khan,sara.khan@email.com,monitor,electronics,8.0,349.99,2799.92,2024-08-22,2024-09-01 00:00:00,Khobar,Saudi Arabia,Bank Transfer,Delivered,0.0,Africa,2799.92
-ORD-0092,Omar Nasser,omar.nasser@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-12-10,2024-12-21 00:00:00,Toronto,Canada,Debit Card,Pending,0.0,Africa,199.89999999999998
 ORD-0093,Rajesh Patel  #8,rajesh.patel@email.com,tablet,electronics,9.0,499.99,4499.91,2024-07-08,2024-07-17 00:00:00,Berlin,Saudi Arabia,Apple Pay,delivered,20.0,North America,3599.928
 ORD-0094,Chen Wei,chen.wei@email.com,keyboard,accessories,1.0,59.99,59.99,2024-03-11,2024-03-21 00:00:00,Jeddah,India,Apple Pay,Returned,10.0,North America,53.991
-ORD-0096,James O'Brien  #9,Not Provided,tablet,electronics,5.0,499.99,2499.95,2024-07-13,2024-07-21 00:00:00,Sydney,Australia,PayPal,Delivered,,Oceania,
 ORD-0097,Wei Chen,wei.chen@email.com,monitor,electronics,1.0,349.99,349.99,2024-01-19,2024-01-29 00:00:00,Sydney,Australia,Cash on Delivery,Delivered,10.0,Asia,314.991
-ORD-0098,Hassan Youssef,hassan.youssef@email.com,charger,accessories,10.0,24.99,249.89999999999998,2024-03-19,2024-03-29 00:00:00,Toronto,Canada,PayPal,Cancelled,0.0,Mid East,249.89999999999998
 ORD-0100,Lina Mansour,lina.mansour@email.com,webcam,electronics,5.0,79.99,399.95,2024-10-18,2024-10-28 00:00:00,New York,USA,Apple Pay,Cancelled,15.0,Africa,339.9575
 ORD-0101,Sophie Brown,sophie.brown@email.com,headphones,electronics,3.0,149.99,449.97,2024-11-17,2024-11-18 00:00:00,Abu Dhabi,UAE,Credit Card,Shipped,10.0,Asia,404.973
 ORD-0102,Hassan Youssef  #4,hassan.youssef@email.com,monitor,electronics,3.0,349.99,1049.97,2024-08-20,2024-08-30 00:00:00,Jeddah,Saudi Arabia,Cash on Delivery,Returned,150.0,Middle East,-524.9849999999999
 ORD-0103,Chen Wei,chen.wei@email.com,printer,electronics,7.0,199.99,1399.93,2024-06-04,2024-06-07 00:00:00,Singapore,Singapore,Cash on Delivery,Processing,10.0,Africa,1259.9370000000001
 ORD-0104,Khalid Bin Saeed,khalid.bin.saeed@email.com,hdmi cable,accessories,2.0,12.99,25.98,2024-02-09,2024-02-13 00:00:00,Toronto,Canada,Cash on Delivery,delivered,20.0,North America,20.784
-ORD-0105,Sophie Brown,sophie.brown@email.com,mouse pad,accessories,6.0,14.99,89.94,2024-05-08,2024-05-18 00:00:00,Cairo,Egypt,Bank Transfer,Returned,0.0,Europe,89.94
 ORD-0106,Alex Johnson,alex.johnson@email.com,tablet,electronics,5.0,499.99,2499.95,2024-02-13,2024-02-24 00:00:00,Paris,France,Cash on Delivery,Shipped,25.0,Europe,1874.9624999999999
 ORD-0107,Sana Bukhari,Not Provided,smart watch,electronics,5.0,249.99,1249.95,2024-07-08,2024-07-21 00:00:00,Abu Dhabi,UAE,Credit Card,Returned,20.0,North America,999.96
-ORD-0108,Anna Müller,anna.müller@email.com,tablet,electronics,9.0,4999.9,44999.1,2024-07-28,2024-08-04 00:00:00,Cairo,Egypt,Google Pay,Pending,0.0,North America,44999.1
-ORD-0109,Tariq Mahmoud,tariq.mahmoud@email.com,charger,accessories,6.0,24.99,149.94,2024-06-22,2024-07-01 00:00:00,Muscat,Oman,Apple Pay,Cancelled,0.0,North America,149.94
-ORD-0111,anna müller,anna.müller@email.com,usb cable,accessories,8.0,9.99,79.92,2024-05-12,2024-05-19 00:00:00,Tokyo,Saudi Arabia,PayPal,Delivered,0.0,Africa,79.92
 ORD-0113,Emma Wilson,emma.wilsonemail.com,tablet,electronics,1.0,499.99,499.99,2024-04-15,2024-04-27 00:00:00,Dubai,Saudi Arabia,Apple Pay,Shipped,25.0,North America,374.9925
 ORD-0115,viktor petrov,viktor.petrov@email.com,laptop,electronics,10.0,899.99,8999.9,2024-06-25,2024-07-05 00:00:00,Mumbai,India,Apple Pay,Delivered,20.0,Asia,7199.92
-ORD-0116,Unknown,rajesh.patel@email.com,hdmi cable,accessories,6.0,12.99,77.94,2024-12-02,2024-12-16 00:00:00,Sharjah,U.A.E.,Cash on Delivery,Delivered,0.0,Europe,77.94
 ORD-0117,James O'Brien,james.obrien@email.com,printer,electronics,10.0,199.99,1999.9,2024-04-19,2024-04-28 00:00:00,Cairo,Egypt,Goggle Pay,Returned,10.0,Europe,1799.91
 ORD-0119,Nora Ali,nora.ali@email.com,usb cable,accessories,8.0,9.99,79.92,2024-10-24,2024-10-25 00:00:00,Medina,Saudi Arabia,PayPal,Delivered,20.0,Africa,63.936
 ORD-0120,Wei Chen,wei.chen@email.com,usb cable,accessories,2.0,99.9,199.8,2024-12-02,2024-12-06 00:00:00,Sharjah,U.A.E.,Google Pay,Refunded,10.0,ME,179.82
-ORD-0122,Carlos Rivera,  carlos.rivera@email.com  ,tablet,electronics,10.0,499.99,4999.9,2024-03-14,2024-03-19 00:00:00,Sharjah,UAE,Bank Transfer,Returned,0.0,Asia,4999.9
 ORD-0123,Fatima Hassan,fatima.hassan@email.com,laptop,electronics,10.0,899.99,8999.9,2024-10-09,2024-10-19 00:00:00,Abu Dhabi,UAE,Debit Card,Returned,5.0,Asia,8549.904999999999
 ORD-0123,Fatima Hassan,fatima.hassan@email.com,laptop,electronics,10.0,899.99,8999.9,2024-10-09,2024-10-19 00:00:00,Abu Dhabi,Singapore,Debet Card,Returned,5.0,Asia,8549.904999999999
 ORD-0124,Aisha Mohammed,aisha.mohammed@email.com,power bank,accessories,9.0,39.99,359.91,2024-11-23,2024-12-06 00:00:00,Jeddah,Germany,Credit Card,Cancelled,25.0,Middle East,269.9325
-ORD-0125,Omar Nasser  #8,omar.nasser@email.com,external ssd,electronics,2.0,129.99,259.98,2024-05-11,2024-05-23 00:00:00,New York,USA,Apple Pay,Delivered,0.0,Middle East,259.98
-ORD-0126,Priya Sharma,priya.sharma@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-11-16,2024-11-24 00:00:00,Singapore,Singapore,Credit Card,Returned,0.0,Africa,199.89999999999998
-ORD-0126,Priya Sharma,priya.sharma@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-11-16,2024-11-24 00:00:00,Singapore,Singapore,Credit Card,RETURNED,0.0,Africa,199.89999999999998
 ORD-0127,Rajesh Patel,Not Provided,usb cable,accessories,5.0,9.99,49.95,2024-08-05,2024-08-07 00:00:00,Tokyo,Japan,Cash on Delivery,Cancelled,5.0,Oceania,47.4525
 ORD-0128,Carlos Rivera,carlos.rivera@email.com,hdmi cable,accessories,1.0,12.99,12.99,2024-06-12,2024-06-21 00:00:00,Cairo,Saudi Arabia,Apple Pay,Shipped,10.0,EU,11.691
-ORD-0129,Anna Müller,anna.müller@email.com,mouse pad,accessories,2.0,14.99,29.98,2024-03-09,2024-03-23 00:00:00,Riyadh,KSA,Bank Transfer,Pending,0.0,Africa,29.98
-ORD-0130,WEI CHEN,wei.chen@email.com,phone case,accessories,1.0,19.99,19.99,2024-08-13,2024-08-25 00:00:00,Khobar,KSA,Credit Card,Processing,0.0,Oceania,19.99
 ORD-0131,Khalid Bin Saeed,khalid.bin.saeed@email.com,wireless mouse,electronics,2.0,29.99,59.98,2024-07-02,2024-07-04 00:00:00,Singapore,Singapore,Debit Card,Pending,25.0,Africa,44.985
-ORD-0132,David Lee,david.lee@email.com,keyboard,accessories,9.0,59.99,539.91,2024-02-13,2024-02-27 00:00:00,Dubai,UAE,Cash on Delivery,Pending,0.0,Europe,539.91
-ORD-0133,Khalid Bin Saeed,khalid.bin.saeedemail.com,wireless mouse,electronics,2.0,29.99,59.98,2024-04-27,2024-04-30 00:00:00,Abu Dhabi,UAE,Apple Pay,Refunded,0.0,Asia,59.98
 ORD-0134,Aisha Mohammed,aisha.mohammed@email.com,speaker,electronics,7.0,89.99,629.93,2024-09-07,2024-09-18 00:00:00,New York,USA,Debit Card,Shipped,20.0,Africa,503.94399999999996
-ORD-0135,David Lee,david.lee@email.com,wireless mouse,electronics,1.0,29.99,29.99,2024-10-16,2024-10-28 00:00:00,Toronto,Canada,Cash on Delivery,Cancelled,0.0,Asia,29.99
-ORD-0136,Sara Khan,sara.khan@email.com,stylus pen,accessories,10.0,34.99,349.90000000000003,2024-03-19,2024-03-20 00:00:00,Berlin,Germany,Aple Pay,Returned,0.0,Europe,349.90000000000003
 ORD-0137,Sophie Brown,sophie.brown@email.com,mouse pad,accessories,1.0,14.99,14.99,2024-09-11,2024-11-22 00:00:00,Dubai,UAE,Debit Card,Cancelled,20.0,North America,11.992
-ORD-0138,ALI REZA,ali.reza@email.com,headphones,electronics,6.0,149.99,899.94,2024-01-09,2024-09-12 00:00:00,Riyadh,Saudi Arabia,Credit Card,delivered,,Middle East,
 ORD-0139,Tariq Mahmoud,tariq.mahmoud@email.com,printer,electronics,5.0,199.99,999.95,2024-03-25,2024-03-27 00:00:00,Tokyo,Saudi Arabia,Credit Card,Cancelled,20.0,Europe,799.96
 ORD-0140,Khalid Bin Saeed,khalid.bin.saeed@email.com,stylus pen,accessories,7.0,34.99,244.93,2024-07-28,2024-08-09 00:00:00,Dammam,Canada,Debit Card,Delivered,20.0,Oceania,195.94400000000002
-ORD-0141,Anna Müller,Not Provided,power bank,accessories,5.0,39.99,199.95000000000002,2024-08-18,2024-09-01 00:00:00,Doha,Qatar,Credit Card,Processing,0.0,Europe,199.95000000000002
-ORD-0142,Anna Müller,anna.müller@email.com,phone case,accessories,7.0,19.99,139.92999999999998,2024-06-26,2024-07-10 00:00:00,Sydney,Australia,Credit Card,Pending,0.0,Europe,139.92999999999998
 ORD-0143,Fatima Hassan  #9,fatima.hassan@email.com,wireless mouse,electronics,10.0,29.99,299.9,2024-03-23,2024-03-31 00:00:00,Sharjah,UAE,Aple Pay,Refunded,10.0,Europe,269.90999999999997
 ORD-0144,Maria Garcia,maria.garcia@email.com,usb cable,accessories,4.0,9.99,39.96,2024-12-15,2024-12-25 00:00:00,Abu Dhabi,UAE,Bank Transfer,Shipped,15.0,Asia,33.966
 ORD-0145,Hassan Youssef,hassan.youssef@email.com,headphones,electronics,10.0,149.99,1499.9,2024-09-28,2024-10-02 00:00:00,Dammam,Saudi Arabia,Google Pay,Returned,25.0,Asia,1124.9250000000002
@@ -125,98 +72,60 @@ ORD-0146,khalid bin saeed,  khalid.bin.saeed@email.com  ,charger,accessories,3.0
 ORD-0147,Nora Ali,nora.ali@email.com,tablet,electronics,9.0,499.99,4499.91,2024-02-21,2024-02-29 00:00:00,Abu Dhabi,Saudi Arabia,Apple Pay,Shipped,5.0,Europe,4274.9145
 ORD-0148,Megan Taylor,megan.taylor@email.com,laptop,electronics,5.0,899.99,4499.95,2024-07-22,2024-07-31 00:00:00,London,UK,PayPal,Cancelled,25.0,Oceania,3374.9624999999996
 ORD-0150,Viktor Petrov,viktor.petrov@email.com,wireless mouse,electronics,3.0,299.9,899.6999999999999,2024-11-18,2024-11-20 00:00:00,Berlin,Germany,Bank Transfer,Returned,5.0,North America,854.7149999999999
-ORD-0151,CARLOS RIVERA,carlos.rivera@email.com,external ssd,electronics,5.0,129.99,649.95,2024-03-26,2024-04-07 00:00:00,Singapore,Saudi Arabia,Bank Transfer,SHIPPED,0.0,Asia,649.95
 ORD-0153,Unknown,layla.ibrahim@email.com,printer,electronics,5.0,199.99,999.95,2024-05-22,2024-06-03 00:00:00,Toronto,Canada,Cash on Delivery,Returned,15.0,Asia,849.9575
-ORD-0154,AHMED AL-FARSI,Not Provided,monitor,electronics,4.0,349.99,1399.96,2024-03-28,2024-04-09 00:00:00,London,UK,Debit Card,Processing,0.0,Asia,1399.96
 ORD-0155,Priya Sharma,priya.sharma@email.com,smart watch,electronics,10.0,249.99,2499.9,2024-02-04,2024-02-18 00:00:00,Abu Dhabi,United Arab Emirates,Credit Card,RETURNED,5.0,Oceania,2374.905
 ORD-0156,JAMES O'BRIEN,Not Provided,external ssd,electronics,4.0,129.99,519.96,2024-09-14,2024-09-19 00:00:00,Singapore,Singapore,Google Pay,Delivered,25.0,Oceania,389.97
 ORD-0158,Sara Khan,sara.khan@email.com,headphones,electronics,9.0,149.99,1349.91,2024-11-28,2024-12-11 00:00:00,Berlin,Germany,Debit Card,Cancelled,20.0,asia,1079.928
-ORD-0159,Megan Taylor,megan.taylor@email.com,charger,accessories,10.0,24.99,249.89999999999998,2024-02-23,2024-02-25 00:00:00,Berlin,Canada,PayPal,Shipped,0.0,Africa,249.89999999999998
 ORD-0160,Isabella Rossi,isabella.rossi@email.com,usb cable,accessories,10.0,9.99,99.9,2024-02-19,2024-02-25 00:00:00,Tokyo,Japan,Cash on Delivery,Refunded,25.0,North America,74.92500000000001
 ORD-0161,Wei Chen,wei.chen@email.com,charger,accessories,7.0,24.99,174.92999999999998,2024-07-11,2024-07-25 00:00:00,Dammam,Saudi Arabia,Debit Card,Refunded,20.0,Europe,139.944
 ORD-0161,Wei Chen,wei.chen@email.com,charger,accessories,7.0,249.9,1749.3,2024-07-11,2024-07-25 00:00:00,Dammam,Saudi Arabia,Debit Card,refund,20.0,Europe,1399.44
-ORD-0162,Ali Reza,  ali.reza@email.com  ,usb cable,accessories,7.0,9.99,69.93,2024-12-27,2024-12-30 00:00:00,Mumbai,India,Cash on Delivery,Pending,0.0,Africa,69.93
 ORD-0163,Yuki Tanaka,yuki.tanaka@email.com,laptop,electronics,10.0,899.99,8999.9,2024-01-27,2024-02-08 00:00:00,Jeddah,Saudi Arabia,Google Pay,Pending,5.0,Europe,8549.904999999999
 ORD-0164,Viktor Petrov,viktor.petrov@email.com,monitor,electronics,3.0,349.99,1049.97,2024-12-09,2024-12-18 00:00:00,Dammam,Saudi Arabia,Bank Transfer,Returned,15.0,Africa,892.4745
-ORD-0166,alex johnson,alex.johnson@email.com,tablet,electronics,10.0,499.99,4999.9,2024-08-08,2024-08-14 00:00:00,Abu Dhabi,UAE,Aple Pay,Cancelled,0.0,Middle East,4999.9
 ORD-0167,Emma Wilson,emma.wilson@email.com,keyboard,accessories,2.0,59.99,119.98,2024-06-23,2024-07-02 00:00:00,Singapore,Singapore,PayPal,Delivered,15.0,Middle East,101.983
 ORD-0168,Rajesh Patel,rajesh.patel@email.com,stylus pen,accessories,8.0,34.99,279.92,2024-08-04,2024-08-18 00:00:00,London,UK,PayPal,Delivered,5.0,europe,265.92400000000004
 ORD-0169,emma wilson,emma.wilson@email.com,printer,electronics,10.0,199.99,1999.9,2024-03-07,2024-03-21 00:00:00,Jeddah,Saudi Arabia,Apple Pay,Processing,15.0,Middle East,1699.915
 ORD-0170,David Lee,david.lee@email.com,headphones,electronics,7.0,149.99,1049.93,2024-11-14,2024-11-16 00:00:00,Jeddah,Saudi Arabia,PayPal,Cancelled,5.0,Oceania,997.4335000000001
 ORD-0173,Chen Wei,chen.wei@email.com,wireless mouse,electronics,9.0,29.99,269.90999999999997,2024-01-14,2024-01-24 00:00:00,Paris,France,Credit Card,Processing,20.0,North America,215.92799999999997
-ORD-0174,Fatima Hassan,fatima.hassan@email.com,stylus pen,accessories,2.0,34.99,69.98,2024-07-16,2024-07-21 00:00:00,Mumbai,India,Cash on Delivery,Delivered,,Africa,
-ORD-0175,Rajesh Patel,rajesh.patel@email.com,wireless mouse,electronics,9.0,29.99,269.90999999999997,2024-02-06,2024-02-17 00:00:00,Dubai,UAE,Debit Card,Processing,0.0,Oceania,269.90999999999997
 ORD-0176,DAVID LEE,david.lee@email.com,laptop,electronics,8.0,899.99,7199.92,2024-03-25,2024-03-26 00:00:00,Khobar,Saudi Arabia,Creadit Card,Processing,15.0,North America,6119.932
-ORD-0177,ANNA MÜLLER,anna.müller@email.com,speaker,electronics,4.0,89.99,359.96,2024-05-03,2024-05-04 00:00:00,Medina,Saudi Arabia,Bank Tranfer,Pending,0.0,Africa,359.96
 ORD-0178,Rajesh Patel,rajesh.patel@email.com,tablet,electronics,6.0,499.99,2999.94,2024-05-10,2024-05-21 00:00:00,Abu Dhabi,UAE,Debit Card,Pending,20.0,Africa,2399.952
 ORD-0179,Layla Ibrahim,layla.ibrahim@email.com,smart watch,electronics,2.0,249.99,499.98,2024-12-07,2024-12-15 00:00:00,Muscat,Saudi Arabia,Apple Pay,Shipped,15.0,Middle East,424.983
 ORD-0180,Lina Mansour,lina.mansour@email.com,external ssd,electronics,8.0,129.99,1039.92,2024-11-15,2024-11-18 00:00:00,Paris,france,Google Pay,Returned,20.0,North America,831.936
 ORD-0181,Rajesh Patel,rajesh.patel@email.com,printer,electronics,7.0,199.99,1399.93,2024-02-10,2024-10-10 00:00:00,Riyadh,Saudi Arabia,Bank Transfer,Shipped,20.0,Middle East,1119.944
 ORD-0182,EMMA WILSON,emma.wilson@email.com,power bank,accessories,7.0,39.99,279.93,2024-02-16,2024-02-17 00:00:00,Singapore,Singapore,Debit Card,Delivered,10.0,Africa,251.937
 ORD-0184,Viktor Petrov,viktor.petrov@email.com,usb cable,accessories,9.0,99.9,899.1,2024-01-27,2024-02-10 00:00:00,Doha,Saudi Arabia,Creadit Card,Processing,20.0,Africa,719.28
-ORD-0186,Chen Wei,chen.wei@email.com,hdmi cable,accessories,2.0,12.99,25.98,2024-07-04,2024-04-10 00:00:00,Paris,France,Credit Card,pending,0.0,middle east,25.98
-ORD-0187,Aisha Mohammed,aisha.mohammed@email.com,speaker,electronics,2.0,89.99,179.98,2024-10-25,2024-11-01 00:00:00,Mumbai,India,Cash on Delivery,Refunded,0.0,North America,179.98
-ORD-0188,Yuki Tanaka,yuki.tanaka@email.com,printer,electronics,5.0,1999.9,9999.5,2024-06-01,2024-06-10 00:00:00,Abu Dhabi,UAE,Apple Pay,Shipped,0.0,Asia,9999.5
 ORD-0189,Isabella Rossi,isabella.rossi@email.com,speaker,electronics,4.0,89.99,359.96,2024-07-06,2024-07-20 00:00:00,Riyadh,Saudi Arabia,Credit Card,Delivered,15.0,Middle East,305.966
 ORD-0191,Sana Bukhari,sana.bukhari@email.com,wireless mouse,electronics,4.0,29.99,119.96,2024-04-07,2024-04-15 00:00:00,Mumbai,India,Debit Card,Processing,20.0,north america,95.96799999999999
 ORD-0193,david lee,david.lee@email.com,keyboard,accessories,10.0,59.99,599.9,2024-03-10,2024-03-22 00:00:00,Riyadh,Saudi Arabia,Google Pay,Pending,15.0,europe,509.91499999999996
 ORD-0194,Unknown,aisha.mohammed@email.com,charger,accessories,4.0,24.99,99.96,2024-04-10,2024-04-21 00:00:00,Khobar,Saudi Arabia,Bank Transfer,Delivered,15.0,Africa,84.966
-ORD-0195,Sara Khan,sara.khan@email.com,usb cable,accessories,5.0,9.99,49.95,2024-11-15,2024-11-21 00:00:00,Berlin,Germany,Cash on Delivery,Refunded,0.0,North America,49.95
 ORD-0196,Chen Wei,chen.wei@email.com,external ssd,electronics,7.0,129.99,909.9300000000001,2024-06-24,2024-07-01 00:00:00,Cairo,Egypt,Creadit Card,Delivered,10.0,Middle East,818.937
 ORD-0197,Ali Reza,ali.reza@email.com,monitor,electronics,7.0,349.99,2449.9300000000003,2024-12-10,2024-12-18 00:00:00,Jeddah,Saudi Arabia,Credit Card,Delivered,20.0,Asia,1959.9440000000002
 ORD-0198,John Smith,john.smith@email.com,webcam,electronics,10.0,79.99,799.9,2024-06-02,2024-06-04 00:00:00,Cairo,Egypt,PayPal,Refunded,25.0,Middle East,599.925
-ORD-0199,Sara Khan,sara.khan@email.com,keyboard,accessories,6.0,59.99,359.94,2024-08-10,2024-08-14 00:00:00,London,UK,Debit Card,pending,0.0,Asia,359.94
 ORD-0200,Omar Nasser,omar.nasser@email.com,keyboard,accessories,2.0,59.99,119.98,2024-03-19,2024-03-28 00:00:00,Cairo,Egypt,Cash on Delivery,Delivered,20.0,Oceania,95.98400000000001
 ORD-0201,Yuki Tanaka,Not Provided,speaker,electronics,9.0,89.99,809.91,2024-10-16,2024-10-18 00:00:00,Paris,France,Apple Pay,Canceled,5.0,Asia,769.4145
-ORD-0202,David Lee  #2,Not Provided,laptop,electronics,3.0,899.99,2699.9700000000003,2024-05-20,2024-05-28 00:00:00,London,UK,Debit Card,Returned,0.0,Middle East,2699.9700000000003
-ORD-0203,Tariq Mahmoud,tariq.mahmoud,hdmi cable,accessories,9.0,12.99,116.91,2024-07-21,2024-07-26 00:00:00,Singapore,Singapore,Debet Card,Processing,0.0,Oceania,116.91
 ORD-0204,AHMED AL-FARSI  #6,ahmed.alfarsi@email.com,speaker,electronics,10.0,89.99,899.9,2024-09-25,2024-09-30 00:00:00,Muscat,Oman,Google Pay,Processing,20.0,Europe,719.92
-ORD-0205,Layla Ibrahim,layla.ibrahim@email.com,wireless mouse,electronics,6.0,29.99,179.94,2024-11-15,2024-11-19 00:00:00,Sharjah,UAE,Bank Transfer,Pending,0.0,Europe,179.94
-ORD-0205,Layla Ibrahim  #6,layla.ibrahim@email.com,wireless mouse,electronics,6.0,29.99,179.94,2024-11-15,2024-11-19 00:00:00,Sharjah,UAE,Bank Transfer,Pending,0.0,Europe,179.94
-ORD-0206,VIKTOR PETROV,viktor.petrov@email.com,speaker,electronics,5.0,89.99,449.95,2024-04-24,2024-04-29 00:00:00,Muscat,Oman,Credit Card,Pending,0.0,Africa,449.95
 ORD-0207,Omar Nasser,omar.nasser@email.com,speaker,electronics,7.0,89.99,629.93,2024-06-25,2024-07-01 00:00:00,London,Oman,Apple Pay,Returned,5.0,Middle East,598.4335
 ORD-0209,Carlos Rivera,carlos.rivera@email.com,headphones,electronics,1.0,149.99,149.99,2024-02-12,2024-02-20 00:00:00,New York,USA,Creadit Card,Returned,15.0,Africa,127.4915
-ORD-0210,Aisha Mohammed,Not Provided,stylus pen,accessories,7.0,34.99,244.93,2024-05-19,2024-05-22 00:00:00,Dubai,UAE,Credit Card,pending,0.0,North America,244.93
-ORD-0211,ali reza,ali.reza@email.com,laptop,electronics,4.0,899.99,3599.96,2024-05-02,2024-05-11 00:00:00,Berlin,DE,Cash on Delivery,Cancelled,0.0,Africa,3599.96
 ORD-0213,Viktor Petrov,viktor.petrov@email.com,wireless mouse,electronics,3.0,29.99,89.97,2024-06-25,2024-07-02 00:00:00,New York,USA,Google Pay,pending,20.0,North America,71.976
 ORD-0216,aisha mohammed  #3,aisha.mohammed@email.com,mouse pad,accessories,5.0,14.99,74.95,2024-06-14,2024-06-17 00:00:00,Medina,Saudi Arabia,PayPal,Delivered,25.0,Oceania,56.212500000000006
-ORD-0217,David Lee,david.lee@email.com,smart watch,electronics,1.0,249.99,249.99,2024-11-08,2024-11-09 00:00:00,Paris,France,Cash on Delivery,Pending,-10.0,N. America,274.98900000000003
-ORD-0218,CHEN WEI,chen.wei@email.com,tablet,electronics,4.0,499.99,1999.96,2024-06-14,2024-06-22 00:00:00,Jeddah,Saudi Arabia,Bank Transfer,Pending,0.0,Europe,1999.96
-ORD-0219,Maria Garcia,maria.garcia@email.com,keyboard,accessories,10.0,59.99,599.9,2024-02-02,2024-02-12 00:00:00,Cairo,Egypt,Apple Pay,Cancelled,0.0,Middle East,599.9
 ORD-0220,James O'Brien,james.obrien@email.com,speaker,electronics,8.0,89.99,719.92,2024-11-18,2024-11-16 00:00:00,Khobar,Saudi Arabia,Debit Card,Cancelled,20.0,Africa,575.9359999999999
 ORD-0221,David Lee,Not Provided,printer,electronics,2.0,199.99,399.98,2024-12-18,2024-12-23 00:00:00,London,UK,Cash on Delivery,Processing,15.0,Africa,339.983
 ORD-0224,Hassan Youssef,hassan.youssef@email.com,headphones,electronics,7.0,149.99,1049.93,2024-03-22,2024-04-02 00:00:00,Berlin,Germany,Google Pay,Processing,15.0,Middle East,892.4405
 ORD-0225,Sana Bukhari,sana.bukhari@email.com,tablet,electronics,7.0,499.99,3499.9300000000003,2024-07-18,2024-07-26 00:00:00,Medina,Saudi Arabia,Bank Transfer,Returned,5.0,North America,3324.9335
-ORD-0227,Sana Bukhari,sana.bukhari@email.com,headphones,electronics,5.0,149.99,749.95,2024-02-17,2024-02-24 00:00:00,London,UK,Debit Card,Cancelled,0.0,Asia,749.95
 ORD-0229,Emma Wilson,emma.wilson@email.com,keyboard,accessories,6.0,59.99,359.94,2024-05-12,2024-05-22 00:00:00,Singapore,Singapore,Apple Pay,Refunded,20.0,Asia,287.952
 ORD-0231,Omar Nasser,omar.nasser@email.com,stylus pen,accessories,2.0,34.99,69.98,2024-05-15,2024-05-16 00:00:00,Medina,Saudi Arabia,Bank Transfer,Shipped,5.0,Europe,66.48100000000001
 ORD-0232,chen wei,chen.wei@email.com,hdmi cable,accessories,6.0,12.99,77.94,2024-12-19,2024-12-26 00:00:00,Riyadh,Saudi Arabia,Google Pay,Returned,5.0,Middle East,74.04299999999999
-ORD-0233,Omar Nasser,omar.nasser@email.com,laptop,electronics,6.0,899.99,5399.9400000000005,2024-06-01,2024-06-06 00:00:00,Berlin,Germany,Google Pay,refund,0.0,Oceania,5399.9400000000005
 ORD-0234,Megan Taylor,megan.taylor@@email.com,external ssd,electronics,9.0,129.99,1169.91,2024-10-26,2024-10-27 00:00:00,Berlin,Germany,Bank Transfer,Shipped,5.0,North America,1111.4145
-ORD-0235,Rajesh Patel,rajesh.patelemail.com,speaker,electronics,4.0,89.99,359.96,2024-10-21,2024-10-20 00:00:00,Jeddah,Saudi Arabia,Cash on Delivery,Cancelled,0.0,Oceania,359.96
-ORD-0236,james o'brien,james.obrien@email.com,tablet,electronics,7.0,499.99,3499.9300000000003,2024-05-22,2024-05-23 00:00:00,Tokyo,Japan,Debit Card,Pending,0.0,Oceania,3499.9300000000003
-ORD-0237,Unknown,hassan.youssef@email.com,power bank,accessories,1.0,39.99,39.99,2024-03-17,2024-03-29 00:00:00,Tokyo,Japan,Debit Card,Returned,0.0,Africa,39.99
-ORD-0239,John Smith,john.smith@email.com,speaker,electronics,5.0,89.99,449.95,2024-10-07,2024-10-16 00:00:00,Cairo,Egypt,Cash on Delivery,In Progress,0.0,Africa,449.95
 ORD-0240,alex johnson,alex.johnson@email.com,printer,electronics,6.0,199.99,1199.94,2024-03-07,2024-07-12 00:00:00,Paris,France,Cash on Delivery,Delivered,20.0,Europe,959.952
 ORD-0241,Sana Bukhari,sana.bukhari,keyboard,accessories,10.0,59.99,599.9,2024-08-04,2024-08-07 00:00:00,Paris,France,Debet Card,Refunded,20.0,Oceania,479.91999999999996
 ORD-0242,Megan Taylor,megan.taylor@email.com,keyboard,accessories,9.0,59.99,539.91,2024-02-05,2024-02-09 00:00:00,Toronto,Canada,Bank Transfer,Refunded,5.0,North America,512.9145
-ORD-0243,Khalid Bin Saeed,khalid.bin.saeed@email.com,smart watch,electronics,7.0,249.99,1749.93,2024-02-22,2024-02-20 00:00:00,Mumbai,India,Debit Card,delivered,0.0,ME,1749.93
 ORD-0245,Carlos Rivera,Not Provided,tablet,electronics,3.0,499.99,1499.97,2024-06-16,2024-06-17 00:00:00,Mumbai,Australia,Apple Pay,Pending,20.0,Europe,1199.976
-ORD-0246,lina mansour,lina.mansour@email.com,charger,accessories,10.0,24.99,249.89999999999998,2024-09-22,2024-09-25 00:00:00,Berlin,Germany,PayPal,Delivered,,Middle East,
 ORD-0247,FATIMA HASSAN,fatima.hassan@email.com,hdmi cable,accessories,6.0,12.99,77.94,2024-10-05,2024-10-16 00:00:00,Cairo,Oman,Debit Card,Cancelled,5.0,Europe,74.04299999999999
-ORD-0248,Ahmed Al-Farsi,ahmed.alfarsi@email.com,external ssd,electronics,9.0,129.99,1169.91,2024-08-27,2024-08-28 00:00:00,Dammam,Saudi Arabia,PayPal,Refunded,0.0,EU,1169.91
 ORD-0249,Sara Khan,sara.khan@email.com,monitor,electronics,5.0,349.99,1749.95,2024-07-16,2024-07-19 00:00:00,Mumbai,India,Google Pay,RETURNED,10.0,Africa,1574.955
-ORD-0250,Sana Bukhari,sana.bukhari@email.com,mouse pad,accessories,3.0,14.99,44.97,2024-08-24,2024-09-01 00:00:00,Tokyo,Japan,Debit Card,Processing,-10.0,Europe,49.467
 ORD-0252,Layla Ibrahim,layla.ibrahim@email.com,usb cable,accessories,6.0,9.99,59.94,2024-03-22,2024-04-03 00:00:00,Khobar,Saudi Arabia,Debit Card,Refunded,5.0,Africa,56.943
 ORD-0253,Rajesh Patel,rajesh.patel@email.com,monitor,electronics,10.0,349.99,3499.9,2024-08-09,2024-08-20 00:00:00,Riyadh,Saudi Arabia,PayPal,Cancelled,10.0,Asia,3149.91
 ORD-0253,Rajesh Patel  #4,rajesh.patel@email.com,monitor,electronics,10.0,349.99,3499.9,2024-08-09,2024-08-20 00:00:00,Riyadh,SA,PayPal,Cancelled,10.0,asia,3149.91
 ORD-0255,JOHN SMITH,john.smith@email.com,usb cable,accessories,5.0,9.99,49.95,2024-09-07,2024-09-15 00:00:00,Toronto,Canada,Debit Card,Cancelled,10.0,Europe,44.955
-ORD-0256,John Smith,john.smith@email.com,wireless mouse,electronics,5.0,29.99,149.95,2024-10-13,2024-10-21 00:00:00,Riyadh,Saudi Arabia,Bank Transfer,Cancelled,,Middle East,
-ORD-0258,ALEX JOHNSON,Not Provided,stylus pen,accessories,3.0,34.99,104.97,2024-04-21,2024-04-24 00:00:00,London,UK,Cash on Delivery,Pending,,Asia,
-ORD-0260,Yuki Tanaka  #2,yuki.tanaka@email.com,tablet,electronics,6.0,499.99,2999.94,2024-04-26,2024-05-09 00:00:00,Toronto,Canada,Bank Transfer,Processing,0.0,Oceania,2999.94
 ORD-0261,Carlos Rivera,carlos.rivera@email.com,webcam,electronics,9.0,79.99,719.91,2024-12-16,2024-12-28 00:00:00,Dubai,UAE,Google Pay,Delivered,20.0,Middle East,575.928
-ORD-0262,Viktor Petrov,viktor.petrov@email.com,laptop,electronics,10.0,899.99,8999.9,2024-12-10,2024-10-23 00:00:00,Doha,Qatar,PayPal,Cancelled,,Africa,
-ORD-0263,Maria Garcia,Not Provided,tablet,electronics,5.0,499.99,2499.95,2024-03-04,2024-03-08 00:00:00,Medina,Saudi Arabia,Cash on Delivery,Refunded,0.0,Middle East,2499.95
 ORD-0265,Fatima Hassan,Not Provided,charger,accessories,4.0,24.99,99.96,2024-05-22,2024-05-30 00:00:00,Muscat,Oman,Apple Pay,Cancelled,15.0,Africa,84.966
 ORD-0266,Alex Johnson,alex.johnson@email.com,wireless mouse,electronics,5.0,29.99,149.95,2024-08-24,2024-08-28 00:00:00,Paris,France,Google Pay,Delivered,10.0,North America,134.95499999999998
 ORD-0267,Ahmed Al-Farsi,ahmed.alfarsi@email.com,smart watch,electronics,2.0,249.99,499.98,2024-09-13,2024-09-26 00:00:00,Muscat,Oman,Debit Card,Processing,10.0,Middle East,449.982
@@ -224,23 +133,15 @@ ORD-0269,Nora Ali,nora.ali@email.com,keyboard,accessories,1.0,59.99,59.99,2024-0
 ORD-0270,Sana Bukhari,sana.bukhari@email.com,webcam,electronics,9.0,79.99,719.91,2024-06-20,2024-06-26 00:00:00,Abu Dhabi,uae,Debit Card,Shipped,10.0,Africa,647.919
 ORD-0271,ALEX JOHNSON,alex.johnson@email.com,charger,accessories,7.0,24.99,174.92999999999998,2024-10-24,2024-10-29 00:00:00,Toronto,Canada,Google Pay,Cancelled,10.0,Africa,157.43699999999998
 ORD-0272,Khalid Bin Saeed,khalid.bin.saeed@email.com,printer,electronics,5.0,199.99,999.95,2024-09-25,2024-09-27 00:00:00,Mumbai,IN,Bank Transfer,Cancelled,20.0,Oceania,799.96
-ORD-0273,DAVID LEE,david.lee@email.com,smart watch,electronics,4.0,249.99,999.96,2024-01-19,2024-01-18 00:00:00,Paris,France,PayPal,Processing,0.0,Africa,999.96
 ORD-0274,Unknown,layla.ibrahim@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-12-01,2024-12-07 00:00:00,Paris,Saudi Arabia,Debit Card,Returned,15.0,Africa,169.915
 ORD-0277,Nora Ali,Not Provided,stylus pen,accessories,7.0,34.99,244.93,2024-05-02,2024-05-06 00:00:00,Khobar,Saudi Arabia,Bank Tranfer,Cancelled,10.0,Africa,220.437
 ORD-0278,Khalid Bin Saeed,khalid.bin.saeed@email.com,headphones,electronics,6.0,149.99,899.94,2024-02-16,2024-02-25 00:00:00,Sydney,Australia,Debit Card,Cancelled,20.0,North America,719.952
-ORD-0279,Carlos Rivera,carlos.rivera@email.com,keyboard,accessories,5.0,59.99,299.95,2024-05-13,2024-05-24 00:00:00,Muscat,Oman,PayPal,Cancelled,0.0,Asia,299.95
 ORD-0280,Unknown,tariq.mahmoud@email.com,speaker,electronics,2.0,89.99,179.98,2024-01-03,2024-03-07 00:00:00,Abu Dhabi,UAE,Debet Card,Returned,25.0,North America,134.98499999999999
-ORD-0281,James O'Brien,james.obrien@@email.com,smart watch,electronics,10.0,249.99,2499.9,2024-08-02,2024-08-04 00:00:00,Paris,France,Credit Card,Shipped,0.0,North America,2499.9
 ORD-0282,Ahmed Al-Farsi,Not Provided,hdmi cable,accessories,4.0,12.99,51.96,2024-01-26,2024-02-02 00:00:00,London,UK,PayPal,Cancelled,15.0,Middle East,44.166000000000004
 ORD-0283,Nora Ali,Not Provided,external ssd,electronics,8.0,129.99,1039.92,2024-01-05,2024-01-15 00:00:00,Abu Dhabi,UAE,Cash on Delivery,Processing,20.0,North America,831.936
-ORD-0284,Aisha Mohammed,aisha.mohammed@email.com,tablet,electronics,7.0,499.99,3499.9300000000003,2024-08-25,2024-09-02 00:00:00,Berlin,Germany,Bank Transfer,Shipped,0.0,North America,3499.9300000000003
-ORD-0285,David Lee,david.lee@email.com,tablet,electronics,3.0,499.99,1499.97,2024-08-23,2024-08-27 00:00:00,Paris,France,PayPal,Delivered,0.0,Asia,1499.97
 ORD-0286,Sara Khan,sara.khan@email.com,charger,accessories,7.0,24.99,174.92999999999998,2024-12-25,2024-12-26 00:00:00,Toronto,Canada,Apple Pay,Returned,25.0,North America,131.1975
-ORD-0287,CHEN WEI,chen.wei@email.com,headphones,electronics,10.0,149.99,1499.9,2024-11-10,2024-11-18 00:00:00,Doha,Qatar,PayPal,Shipped,0.0,Asia,1499.9
 ORD-0288,Hassan Youssef,hassan.youssef@email.com,monitor,electronics,4.0,349.99,1399.96,2024-06-16,2024-06-24 00:00:00,Abu Dhabi,UAE,Credit Card,Refunded,5.0,Oceania,1329.962
 ORD-0289,Unknown,priya.sharma@email.com,tablet,electronics,10.0,499.99,4999.9,2024-10-16,2024-10-24 00:00:00,Dubai,UAE,Google Pay,Delivered,15.0,Oceania,4249.915
-ORD-0290,Unknown,megan.taylor@email.com,external ssd,electronics,2.0,129.99,259.98,2024-03-16,2024-03-17 00:00:00,Paris,France,Bank Transfer,Cancelled,0.0,Asia,259.98
-ORD-0292,Sara Khan,sara.khan@email.com,speaker,electronics,8.0,89.99,719.92,2024-04-09,2024-04-19 00:00:00,Abu Dhabi,UAE,Credit Card,Delivered,0.0,Oceania,719.92
 ORD-0294,carlos rivera,carlos.rivera@email.com,webcam,electronics,8.0,79.99,639.92,2024-08-24,2024-08-27 00:00:00,Paris,Saudi Arabia,Debit Card,Pending,15.0,Africa,543.932
 ORD-0295,John Smith,john.smith@email.com,printer,electronics,6.0,199.99,1199.94,2024-04-22,2024-04-26 00:00:00,Cairo,Egypt,Debit Card,Cancelled,10.0,Asia,1079.9460000000001
 ORD-0296,David Lee,david.lee@email.com,stylus pen,accessories,5.0,34.99,174.95000000000002,2024-09-04,2024-09-12 00:00:00,Riyadh,Saudi Arabia,Bank Transfer,Refunded,20.0,North America,139.96
@@ -248,162 +149,79 @@ ORD-0297,LINA MANSOUR,lina.mansour@email.com,keyboard,accessories,3.0,59.99,179.
 ORD-0298,Ali Reza,ali.reza@email.com,power bank,accessories,6.0,39.99,239.94,2024-10-22,2024-11-03 00:00:00,Dubai,UAE,Bank Transfer,Pending,5.0,Asia,227.94299999999998
 ORD-0299,SARA KHAN,sara.khan@email.com,tablet,electronics,3.0,499.99,1499.97,2024-07-11,2024-07-12 00:00:00,Abu Dhabi,UAE,Bank Transfer,Refunded,15.0,Asia,1274.9745
 ORD-0302,Unknown,hassan.youssef@email.com,stylus pen,accessories,4.0,34.99,139.96,2024-11-15,2024-11-20 00:00:00,Dubai,UAE,Apple Pay,Returned,25.0,Asia,104.97
-ORD-0303,Alex Johnson,alex.johnson@email.com,smart watch,electronics,6.0,249.99,1499.94,2024-07-22,2024-08-05 00:00:00,Tokyo,Japan,Credit Card,Delivered,0.0,Oceania,1499.94
-ORD-0304,Lina Mansour,lina.mansour@email.com,wireless mouse,electronics,7.0,29.99,209.92999999999998,2024-11-24,2024-12-07 00:00:00,Singapore,Saudi Arabia,Credit Card,Shipped,0.0,Middle East,209.92999999999998
-ORD-0305,nora ali,nora.ali@email.com,charger,accessories,2.0,24.99,49.98,2024-12-03,2024-12-14 00:00:00,Sydney,Australia,Cash on Delivery,Cancelled,0.0,North America,49.98
 ORD-0306,nora ali,nora.ali@email.com,tablet,electronics,8.0,499.99,3999.92,2024-01-08,2024-01-17 00:00:00,London,UK,PayPal,Delivered,25.0,Africa,2999.94
-ORD-0307,Wei Chen,wei.chen@email.com,printer,electronics,4.0,199.99,799.96,2024-09-19,2024-09-22 00:00:00,Dubai,United Arab Emirates,Cash on Delivery,Pending,-5.0,Africa,839.9580000000001
 ORD-0308,Aisha Mohammed,aisha.mohammed@email.com,phone case,accessories,8.0,19.99,159.92,2024-05-18,2024-05-30 00:00:00,Berlin,Germany,Debit Card,Returned,20.0,Asia,127.93599999999999
-ORD-0309,david lee,david.lee@email.com,headphones,electronics,7.0,149.99,1049.93,2024-05-16,2024-05-18 00:00:00,New York,USA,Bank Transfer,Shipped,,Europe,
-ORD-0309,david lee,david.lee@email.com,headphones,electronics,7.0,149.99,1049.93,2024-05-16,2024-05-18 00:00:00,New York,USA,Bank Transfer,Shipped,,Europe,
-ORD-0310,Viktor Petrov,viktor.petrov@email.com,headphones,electronics,9.0,149.99,1349.91,2024-03-27,2024-04-10 00:00:00,Doha,Qatar,Cash on Delivery,Delivered,0.0,Europe,1349.91
 ORD-0311,JOHN SMITH,john.smith@email.com,printer,electronics,9.0,199.99,1799.91,2024-10-19,2024-10-18 00:00:00,Medina,Saudi Arabia,Bank Transfer,refund,5.0,EU,1709.9145
 ORD-0313,Alex Johnson,alex.johnson@email.com,hdmi cable,accessories,1.0,12.99,12.99,2024-07-27,2024-08-03 00:00:00,Sydney,Australia,Google Pay,Shipped,25.0,Europe,9.7425
 ORD-0316,Unknown,viktor.petrov@email.com,mouse pad,accessories,4.0,14.99,59.96,2024-03-10,2024-03-21 00:00:00,New York,USA,PayPal,Shipped,15.0,Oceania,50.966
 ORD-0317,megan taylor,megan.taylor@email.com,charger,accessories,4.0,24.99,99.96,2024-07-05,2024-07-13 00:00:00,Dubai,UAE,Apple Pay,Cancelled,10.0,Africa,89.964
 ORD-0318,AHMED AL-FARSI,ahmed.alfarsi@email.com,wireless mouse,electronics,6.0,29.99,179.94,2024-02-11,2024-02-17 00:00:00,Cairo,Egypt,Debit Card,Shipped,10.0,Mid East,161.946
 ORD-0319,Sophie Brown,sophie.brown@email.com,headphones,electronics,8.0,1499.9,11999.2,2024-01-16,2024-01-27 00:00:00,Abu Dhabi,UAE,PayPal,Delivered,15.0,Middle East,10199.32
-ORD-0321,Tariq Mahmoud,tariq.mahmoud@email.com,usb cable,accessories,2.0,9.99,19.98,2024-01-24,2024-01-25 00:00:00,Paris,France,Cash on Delivery,Delivered,0.0,Africa,19.98
-ORD-0321,Tariq Mahmoud  #3,tariq.mahmoud@email.com,usb cable,accessories,2.0,9.99,19.98,2024-01-24,2024-01-25 00:00:00,Paris,France,Cash on Delivery,Delivered,0.0,Africa,19.98
 ORD-0322,Omar Nasser,omar.nasser@email.com,webcam,electronics,3.0,79.99,239.96999999999997,2024-09-19,2024-09-23 00:00:00,Dubai,UAE,Goggle Pay,Delivered,5.0,Asia,227.97149999999996
 ORD-0323,Hassan Youssef,hassan.youssef@email.com,usb cable,accessories,10.0,9.99,99.9,2024-05-24,2024-06-07 00:00:00,Paris,France,Paypal,pending,25.0,Africa,74.92500000000001
 ORD-0324,Maria Garcia,maria.garcia@email.com,laptop,electronics,7.0,899.99,6299.93,2024-08-05,2024-08-10 00:00:00,Paris,France,Creadit Card,Cancelled,20.0,Asia,5039.944
 ORD-0325,David Lee,david.lee@email.com,stylus pen,accessories,2.0,34.99,69.98,2024-01-15,2024-01-21 00:00:00,Singapore,Singapore,Debit Card,Processing,5.0,Europe,66.48100000000001
-ORD-0326,Tariq Mahmoud,tariq.mahmoud@email.com,webcam,electronics,3.0,79.99,239.96999999999997,2024-06-28,2024-07-11 00:00:00,Jeddah,Saudi Arabia,Debit Card,SHIPPED,0.0,Europe,239.96999999999997
 ORD-0327,Emma Wilson,emma.wilsonemail.com,speaker,electronics,9.0,89.99,809.91,2024-03-20,2024-03-17 00:00:00,Paris,France,PayPal,Cancelled,10.0,Asia,728.919
-ORD-0328,David Lee,david.lee@email.com,printer,electronics,2.0,199.99,399.98,2024-07-11,2024-07-24 00:00:00,Dammam,Saudi Arabia,Bank Transfer,Returned,0.0,Africa,399.98
-ORD-0329,Omar Nasser,omar.nasser@email.com,tablet,electronics,10.0,499.99,4999.9,2024-08-01,2024-08-07 00:00:00,Dammam,Saudi Arabia,PayPal,Returned,0.0,North America,4999.9
 ORD-0330,Unknown,Not Provided,charger,accessories,6.0,24.99,149.94,2024-08-02,2024-08-13 00:00:00,Mumbai,USA,Google Pay,Processing,5.0,Africa,142.44299999999998
-ORD-0331,Isabella Rossi,isabella.rossi@email.com,mouse pad,accessories,2.0,14.99,29.98,2024-05-14,2024-05-25 00:00:00,Riyadh,Saudi Arabia,Goggle Pay,Delivered,0.0,Europe,29.98
 ORD-0334,SANA BUKHARI,sana.bukhariemail.com,speaker,electronics,9.0,89.99,809.91,2024-11-27,2024-12-04 00:00:00,Mumbai,India,Paypal,Pending,20.0,Oceania,647.928
-ORD-0336,EMMA WILSON,emma.wilson@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-07-04,2024-07-05 00:00:00,London,UK,Google Pay,Pending,0.0,Africa,199.89999999999998
-ORD-0337,priya sharma,priya.sharma@email.com,external ssd,electronics,2.0,129.99,259.98,2024-02-06,2024-02-09 00:00:00,London,UK,Cash on Delivery,Returned,0.0,North America,259.98
-ORD-0338,Sara Khan,sara.khan@email.com,tablet,electronics,4.0,499.99,1999.96,2024-03-10,2024-03-13 00:00:00,Sydney,Australia,PayPal,Delivered,0.0,Middle East,1999.96
 ORD-0339,Tariq Mahmoud,  tariq.mahmoud@email.com  ,hdmi cable,accessories,1.0,12.99,12.99,2024-06-25,2024-07-02 00:00:00,Riyadh,Saudi Arabia,Apple Pay,Pending,15.0,North America,11.041500000000001
-ORD-0340,Aisha Mohammed,aisha.mohammed@email.com,power bank,accessories,10.0,39.99,399.90000000000003,2024-10-22,2024-11-04 00:00:00,Abu Dhabi,UAE,Bank Transfer,Processing,0.0,Oceania,399.90000000000003
 ORD-0341,Sophie Brown,sophie.brown@email.com,smart watch,electronics,3.0,249.99,749.97,2024-02-24,2024-03-07 00:00:00,Berlin,Germany,Debit Card,Shipped,15.0,Asia,637.4745
-ORD-0342,David Lee,david.lee@email.com,wireless mouse,electronics,1.0,29.99,29.99,2024-02-09,2024-02-11 00:00:00,Medina,Saudi Arabia,PayPal,Shipped,0.0,Oceania,29.99
 ORD-0343,Priya Sharma,priya.sharma@email.com,tablet,electronics,8.0,499.99,3999.92,2024-10-06,2024-10-09 00:00:00,Mumbai,India,Credit Card,Delivered,5.0,Oceania,3799.924
-ORD-0344,nora ali,nora.ali@email.com,mouse pad,accessories,7.0,14.99,104.93,2024-05-08,2024-05-20 00:00:00,Berlin,Germany,Bank Transfer,RETURNED,,Middle East,
 ORD-0345,Alex Johnson,alex.johnson@email.com,usb cable,accessories,9.0,9.99,89.91,2024-05-15,2024-05-18 00:00:00,Berlin,germany,Google Pay,Cancelled,10.0,Asia,80.919
 ORD-0346,Alex Johnson,alex.johnson@email.com,smart watch,electronics,1.0,249.99,249.99,2024-09-17,2024-09-18 00:00:00,Sydney,Australia,Debit Card,Delivered,25.0,Asia,187.4925
 ORD-0350,Sophie Brown,sophie.brown@email.com,power bank,accessories,9.0,39.99,359.91,2024-12-11,2024-12-22 00:00:00,Paris,France,Debit Card,Pending,10.0,Africa,323.91900000000004
 ORD-0351,Sana Bukhari,sana.bukhari@email.com,wireless mouse,electronics,7.0,29.99,209.92999999999998,2024-07-27,2024-08-03 00:00:00,London,UK,Bank Transfer,delivered,15.0,Europe,178.4405
-ORD-0352,James O'Brien,james.obrien@email.com,mouse pad,accessories,10.0,14.99,149.9,2024-02-02,2024-02-05 00:00:00,Berlin,Germany,Creadit Card,Delivered,0.0,Middle East,149.9
-ORD-0353,Layla Ibrahim,layla.ibrahim@email.com,charger,accessories,6.0,24.99,149.94,2024-04-08,2024-04-16 00:00:00,London,UK,Debet Card,Delivered,0.0,Middle East,149.94
-ORD-0354,Nora Ali,nora.ali@email.com,external ssd,electronics,3.0,129.99,389.97,2024-06-24,2024-07-06 00:00:00,Singapore,Singapore,PayPal,Refunded,0.0,Africa,389.97
-ORD-0354,Nora Ali,nora.ali@email.com,external ssd,electronics,3.0,129.99,389.97,2024-06-24,2024-07-06 00:00:00,Singapore,Singapore,PayPal,Refunded,0.0,Africa,389.97
-ORD-0356,James O'Brien,james.obrien@email.com,power bank,accessories,7.0,39.99,279.93,2024-01-17,2024-01-31 00:00:00,Berlin,Germany,Cash on Delivery,Pending,0.0,north america,279.93
 ORD-0357,LAYLA IBRAHIM,layla.ibrahim@email.com,laptop,electronics,4.0,899.99,3599.96,2024-02-25,2024-03-09 00:00:00,Tokyo,Japan,Credit Card,Refunded,25.0,Europe,2699.9700000000003
-ORD-0359,James O'Brien,james.obrien@email.com,printer,electronics,4.0,199.99,799.96,2024-05-18,2024-06-01 00:00:00,Singapore,Singapore,Credit Card,Refunded,0.0,middle east,799.96
-ORD-0360,James O'Brien,james.obrien@email.com,power bank,accessories,9.0,39.99,359.91,2024-02-26,2024-03-09 00:00:00,Medina,Saudi Arabia,Google Pay,Pending,-10.0,Africa,395.901
 ORD-0361,James O'Brien,Not Provided,smart watch,electronics,4.0,249.99,999.96,2024-07-01,2024-07-12 00:00:00,Khobar,Saudi Arabia,Cash on Delivery,Refunded,5.0,North America,949.962
-ORD-0362,Unknown,ali.reza@email.com,speaker,electronics,3.0,89.99,269.96999999999997,2024-04-09,2024-04-11 00:00:00,Abu Dhabi,UAE,Apple Pay,Shipped,0.0,Oceania,269.96999999999997
-ORD-0363,Yuki Tanaka,yuki.tanaka@email.com,keyboard,accessories,5.0,59.99,299.95,2024-05-06,2024-05-13 00:00:00,Riyadh,Saudi Arabia,Google Pay,Refunded,0.0,Africa,299.95
-ORD-0364,PRIYA SHARMA,priya.sharma@email.com,power bank,accessories,10.0,39.99,399.90000000000003,2024-10-26,2024-11-04 00:00:00,New York,USA,Bank Transfer,Returned,,Asia,
-ORD-0365,Viktor Petrov,viktor.petrov@email.com,keyboard,accessories,4.0,59.99,239.96,2024-07-28,2024-07-29 00:00:00,Cairo,Egypt,Bank Transfer,Returned,0.0,Middle East,239.96
-ORD-0366,Anna Müller,anna.müller@email.com,hdmi cable,accessories,6.0,12.99,77.94,2024-02-03,2024-02-12 00:00:00,Abu Dhabi,UAE,Cash on Delivery,Processing,0.0,North America,77.94
-ORD-0367,Unknown,fatima.hassan@email.com,mouse pad,accessories,1.0,14.99,14.99,2024-09-06,2024-09-17 00:00:00,Singapore,Singapore,Credit Card,Refunded,0.0,Asia,14.99
-ORD-0368,Emma Wilson,emma.wilson@email.com,usb cable,accessories,10.0,9.99,99.9,2024-02-26,2024-03-09 00:00:00,London,UK,Debit Card,Pending,0.0,Africa,99.9
-ORD-0369,Nora Ali,nora.ali@email.com,external ssd,electronics,3.0,129.99,389.97,2024-11-09,2024-11-23 00:00:00,Paris,france,Credit Card,Refunded,0.0,Middle East,389.97
 ORD-0372,Yuki Tanaka,yuki.tanaka@email.com,headphones,electronics,1.0,149.99,149.99,2024-04-14,2024-04-27 00:00:00,London,Saudi Arabia,Apple Pay,Pending,20.0,Asia,119.992
 ORD-0373,Ahmed Al-Farsi,ahmed.alfarsi@email.com,tablet,electronics,2.0,499.99,999.98,2024-06-08,2024-06-17 00:00:00,Khobar,USA,Debit Card,Refunded,10.0,Europe,899.982
-ORD-0374,Unknown,Not Provided,phone case,accessories,8.0,19.99,159.92,2024-04-05,2024-04-12 00:00:00,Paris,France,Credit Card,Cancelled,0.0,Oceania,159.92
 ORD-0375,HASSAN YOUSSEF,Not Provided,monitor,electronics,7.0,349.99,2449.9300000000003,2024-01-20,2024-01-31 00:00:00,Cairo,Egypt,PayPal,RETURNED,15.0,Asia,2082.4405
-ORD-0376,Sara Khan,sara.khan@email.com,mouse pad,accessories,1.0,14.99,14.99,2024-06-08,2024-06-16 00:00:00,Sydney,Saudi Arabia,Bank Transfer,Refunded,,Africa,
-ORD-0377,Viktor Petrov,viktor.petrov@email.com,keyboard,accessories,10.0,59.99,599.9,2024-04-17,2024-05-01 00:00:00,Tokyo,Japan,Aple Pay,Delivered,0.0,Asia,599.9
 ORD-0378,Anna Müller,anna.müller@email.com,headphones,electronics,7.0,149.99,1049.93,2024-10-23,2024-10-18 00:00:00,Sharjah,UAE,Bank Transfer,Refunded,20.0,Oceania,839.9440000000001
-ORD-0380,Layla Ibrahim  #9,layla.ibrahim@email.com,keyboard,accessories,7.0,59.99,419.93,2024-10-25,2024-10-31 00:00:00,Medina,Saudi Arabia,Debit Card,Cancelled,-10.0,Africa,461.923
-ORD-0381,CARLOS RIVERA,carlos.rivera@email.com,speaker,electronics,7.0,899.9,6299.3,2024-02-02,2024-02-04 00:00:00,Sydney,Saudi Arabia,Debit Card,Delivered,0.0,Oceania,6299.3
 ORD-0383,Hassan Youssef,hassan.youssef@email.com,headphones,electronics,1.0,149.99,149.99,2024-07-04,2024-07-08 00:00:00,Singapore,Singapore,Google Pay,Returned,15.0,Asia,127.4915
 ORD-0383,Hassan Youssef,hassan.youssef@@email.com,headphones,electronics,1.0,149.99,149.99,2024-07-04,2024-07-08 00:00:00,Singapore,Singapore,Google Pay,Returned,15.0,Asia,127.4915
-ORD-0384,Fatima Hassan,fatima.hassan@email.com,usb cable,accessories,1.0,9.99,9.99,2024-03-21,2024-03-23 00:00:00,Muscat,Oman,Cash on Delivery,Returned,0.0,Middle East,9.99
-ORD-0385,Khalid Bin Saeed,khalid.bin.saeed@email.com,wireless mouse,electronics,7.0,29.99,209.92999999999998,2024-08-08,2024-08-15 00:00:00,Khobar,Saudi Arabia,Google Pay,Shipped,0.0,Europe,209.92999999999998
-ORD-0386,Priya Sharma,priya.sharma@email.com,hdmi cable,accessories,10.0,12.99,129.9,2024-10-18,2024-10-23 00:00:00,Medina,saudi arabia,Credit Card,Shipped,0.0,Middle East,129.9
-ORD-0387,Omar Nasser,omar.nasser@email.com,power bank,accessories,3.0,39.99,119.97,2024-01-20,2024-01-28 00:00:00,Tokyo,Japan,Goggle Pay,Delivered,0.0,Oceania,119.97
-ORD-0388,Nora Ali,nora.ali@email.com,external ssd,electronics,10.0,129.99,1299.9,2024-01-01,2024-01-12 00:00:00,Dubai,UAE,PayPal,RETURNED,0.0,Oceania,1299.9
 ORD-0389,Khalid Bin Saeed,  khalid.bin.saeed@email.com  ,headphones,electronics,6.0,149.99,899.94,2024-07-06,2024-07-16 00:00:00,New York,USA,Cash on Delivery,Shipped,5.0,Europe,854.9430000000001
 ORD-0390,Lina Mansour,lina.mansour@email.com,printer,electronics,10.0,199.99,1999.9,2024-04-09,2024-04-22 00:00:00,Jeddah,Saudi Arabia,Google Pay,In Progress,5.0,North America,1899.9050000000002
 ORD-0391,Sophie Brown,sophie.brown@email.com,smart watch,electronics,8.0,249.99,1999.92,2024-09-02,2024-09-12 00:00:00,London,UK,Bank Transfer,Delivered,10.0,Europe,1799.928
 ORD-0393,wei chen,wei.chen@email.com,stylus pen,accessories,4.0,34.99,139.96,2024-07-15,2024-07-26 00:00:00,Doha,Qatar,PayPal,Pending,20.0,Asia,111.968
-ORD-0394,Rajesh Patel,rajesh.patel@email.com,headphones,electronics,8.0,149.99,1199.92,2024-07-17,2024-07-29 00:00:00,Dammam,Saudi Arabia,Bank Transfer,Shipped,0.0,Europe,1199.92
 ORD-0395,Fatima Hassan,fatima.hassan@email.com,laptop,electronics,6.0,899.99,5399.9400000000005,2024-03-06,2024-03-09 00:00:00,Abu Dhabi,UAE,Cash on Delivery,Shipped,20.0,Asia,4319.952
 ORD-0397,Lina Mansour,lina.mansour@email.com,smart watch,electronics,10.0,249.99,2499.9,2024-08-12,2024-08-23 00:00:00,Cairo,Saudi Arabia,Apple Pay,pending,15.0,Oceania,2124.915
 ORD-0400,Anna Müller  #4,anna.müller@email.com,laptop,electronics,4.0,899.99,3599.96,2024-12-22,2025-01-01 00:00:00,Sharjah,U.A.E.,Debit Card,refund,25.0,Middle East,2699.9700000000003
-ORD-0401,Wei Chen,Not Provided,keyboard,accessories,5.0,59.99,299.95,2024-09-21,2024-09-23 00:00:00,Paris,Saudi Arabia,PayPal,Refunded,0.0,Africa,299.95
-ORD-0407,Ali Reza,ali.reza@email.com,usb cable,accessories,3.0,9.99,29.97,2024-04-13,2024-04-23 00:00:00,Dammam,Saudi Arabia,Cash on Delivery,Cancelled,0.0,Oceania,29.97
-ORD-0408,Anna Müller,anna.müller@email.com,power bank,accessories,9.0,39.99,359.91,2024-04-11,2024-04-23 00:00:00,Sydney,Australia,Credit Card,Refunded,,Africa,
 ORD-0409,Aisha Mohammed,aisha.mohammed@email.com,power bank,accessories,9.0,39.99,359.91,2024-04-20,2024-04-21 00:00:00,Singapore,Singapore,PayPal,Cancelled,25.0,Africa,269.9325
 ORD-0411,James O'Brien,james.obrien@email.com,printer,electronics,10.0,199.99,1999.9,2024-03-13,2024-03-24 00:00:00,Sydney,Australia,Cash on Delivery,Canceled,5.0,Oceania,1899.9050000000002
-ORD-0413,Rajesh Patel,rajesh.patel@email.com,laptop,electronics,10.0,899.99,8999.9,2024-08-26,2024-08-31 00:00:00,Paris,France,Debit Card,Refunded,0.0,North America,8999.9
 ORD-0415,Unknown,alex.johnson@email.com,tablet,electronics,8.0,499.99,3999.92,2024-06-08,2024-06-15 00:00:00,Toronto,Canada,Cash on Delivery,Pending,20.0,Africa,3199.936
 ORD-0416,Tariq Mahmoud,tariq.mahmoud@email.com,power bank,accessories,10.0,39.99,399.90000000000003,2024-12-24,2025-01-01 00:00:00,Sharjah,United Arab Emirates,Google Pay,Delivered,25.0,North America,299.925
-ORD-0417,Unknown,viktor.petrov@email.com,tablet,electronics,6.0,499.99,2999.94,2024-04-10,2024-04-11 00:00:00,Jeddah,Saudi Arabia,Google Pay,Pending,0.0,Africa,2999.94
-ORD-0418,Lina Mansour,lina.mansour@email.com,smart watch,electronics,5.0,249.99,1249.95,2024-09-24,2024-10-01 00:00:00,Sharjah,UAE,Cash on Delivery,Cancelled,0.0,Oceania,1249.95
 ORD-0423,James O'Brien,james.obrien@email.com,power bank,accessories,3.0,39.99,119.97,2024-05-03,2024-04-29 00:00:00,Abu Dhabi,UAE,Debit Card,Cancelled,10.0,Asia,107.973
 ORD-0424,VIKTOR PETROV,viktor.petrov@email.com,printer,electronics,7.0,199.99,1399.93,2024-05-02,2024-05-10 00:00:00,New York,UAE,Google Pay,Shipped,10.0,North America,1259.9370000000001
-ORD-0425,hassan youssef,hassan.youssef@email.com,headphones,electronics,8.0,149.99,1199.92,2024-02-27,2024-03-09 00:00:00,Dammam,Saudi Arabia,Debit Card,Cancelled,0.0,Oceania,1199.92
-ORD-0426,Alex Johnson,alex.johnson@email.com,stylus pen,accessories,2.0,34.99,69.98,2024-07-27,2024-08-08 00:00:00,Dammam,Saudi Arabia,Google Pay,pending,0.0,Africa,69.98
 ORD-0427,sophie brown,sophie.brown@email.com,power bank,accessories,4.0,39.99,159.96,2024-12-09,2024-12-14 00:00:00,Medina,Saudi Arabia,Debit Card,Returned,10.0,Asia,143.964
-ORD-0428,Hassan Youssef,Not Provided,monitor,electronics,4.0,349.99,1399.96,2024-02-03,2024-02-02 00:00:00,Doha,Qatar,Cash on Delivery,Canceled,0.0,Africa,1399.96
 ORD-0429,nora ali,Not Provided,phone case,accessories,3.0,19.99,59.97,2024-06-26,2024-07-07 00:00:00,Abu Dhabi,USA,Bank Transfer,Pending,15.0,Middle East,50.9745
-ORD-0431,omar nasser,omar.nasser@email.com,phone case,accessories,10.0,19.99,199.89999999999998,2024-05-10,2024-05-20 00:00:00,Toronto,Japan,Debit Card,delivered,0.0,North America,199.89999999999998
-ORD-0432,Priya Sharma,priya.sharma@email.com,laptop,electronics,9.0,899.99,8099.91,2024-09-14,2024-09-23 00:00:00,Tokyo,Saudi Arabia,Credit Card,Shipped,-10.0,Middle East,8909.901
 ORD-0434,Maria Garcia,maria.garcia,speaker,electronics,9.0,89.99,809.91,2024-02-09,2024-09-14 00:00:00,Jeddah,Saudi Arabia,Google Pay,Processing,5.0,North America,769.4145
 ORD-0436,james o'brien,james.obrien@email.com,external ssd,electronics,8.0,129.99,1039.92,2024-08-12,2024-08-10 00:00:00,Abu Dhabi,UAE,Cash on Delivery,Returned,5.0,Asia,987.9240000000001
 ORD-0437,Rajesh Patel,rajesh.patel@email.com,mouse pad,accessories,7.0,14.99,104.93,2024-07-15,2024-07-10 00:00:00,Jeddah,Saudi Arabia,Debit Card,Pending,20.0,Asia,83.944
-ORD-0438,Nora Ali,nora.ali@email.com,power bank,accessories,6.0,39.99,239.94,2024-05-22,2024-05-25 00:00:00,Dubai,UAE,Cash on Delivery,Refunded,0.0,Africa,239.94
 ORD-0439,Unknown,chen.wei@email.com,tablet,electronics,2.0,499.99,999.98,2024-02-23,2024-03-08 00:00:00,Toronto,Canada,Apple Pay,Returned,25.0,North America,749.985
 ORD-0440,Wei Chen,wei.chen@email.com,usb cable,accessories,3.0,9.99,29.97,2024-06-10,2024-06-16 00:00:00,Riyadh,Saudi Arabia,Apple Pay,Delivered,15.0,Africa,25.4745
 ORD-0441,James O'Brien,james.obrien@email.com,monitor,electronics,5.0,349.99,1749.95,2024-06-10,2024-06-14 00:00:00,Jeddah,Saudi Arabia,Cash on Delivery,Cancelled,5.0,Oceania,1662.4525
 ORD-0442,Khalid Bin Saeed,khalid.bin.saeed@email.com,phone case,accessories,3.0,199.9,599.7,2024-11-27,2024-12-08 00:00:00,Riyadh,Saudi Arabia,Cash on Delivery,Cancelled,15.0,Oceania,509.74500000000006
-ORD-0443,Omar Nasser,omar.nasser@email.com,monitor,electronics,7.0,349.99,2449.9300000000003,2024-01-20,2024-01-25 00:00:00,Mumbai,India,Apple Pay,Refunded,0.0,Asia,2449.9300000000003
 ORD-0444,Chen Wei,chen.wei@email.com,phone case,accessories,9.0,19.99,179.91,2024-10-20,2024-10-23 00:00:00,Riyadh,Saudi Arabia,PayPal,Refunded,25.0,Oceania,134.9325
 ORD-0444,Chen Wei,chen.wei@email.com,phone case,accessories,9.0,19.99,179.91,2024-10-20,2024-10-23 00:00:00,Riyadh,Saudi Arabia,PayPal,refund,25.0,Oceania,134.9325
 ORD-0445,Ali Reza,ali.reza@email.com,power bank,accessories,3.0,39.99,119.97,2024-12-03,2024-12-17 00:00:00,Muscat,Oman,Google Pay,Refunded,20.0,Oceania,95.976
 ORD-0446,Unknown,  fatima.hassan@email.com  ,printer,electronics,4.0,199.99,799.96,2024-06-21,2024-06-22 00:00:00,Sydney,Australia,Google Pay,Pending,25.0,ASIA,599.97
 ORD-0447,John Smith,Not Provided,headphones,electronics,2.0,149.99,299.98,2024-06-03,2024-06-10 00:00:00,Tokyo,Japan,Credit Card,Returned,15.0,Europe,254.983
 ORD-0448,Unknown,aisha.mohammed@email.com,wireless mouse,electronics,10.0,29.99,299.9,2024-09-16,2024-09-20 00:00:00,Dammam,Saudi Arabia,Bank Transfer,Cancelled,25.0,Africa,224.92499999999998
-ORD-0449,MARIA GARCIA,maria.garcia@email.com,keyboard,accessories,1.0,59.99,59.99,2024-03-04,2024-03-14 00:00:00,Dammam,Saudi Arabia,Google Pay,Delivered,-10.0,Africa,65.989
-ORD-0450,sara khan,sara.khan@email.com,speaker,electronics,5.0,89.99,449.95,2024-10-14,2024-10-24 00:00:00,New York,USA,Bank Transfer,Delivered,,Oceania,
-ORD-0451,Sana Bukhari,sana.bukhari@email.com,charger,accessories,4.0,24.99,99.96,2024-05-23,2024-05-28 00:00:00,Dammam,Saudi Arabia,PayPal,Returned,0.0,North America,99.96
-ORD-0452,Ahmed Al-Farsi,ahmed.alfarsi@email.com,external ssd,electronics,3.0,129.99,389.97,2024-01-23,2024-01-26 00:00:00,Dubai,UAE,Bank Transfer,Refunded,0.0,North America,389.97
-ORD-0453,Omar Nasser,omar.nasser@email.com,printer,electronics,10.0,199.99,1999.9,2024-06-21,2024-07-02 00:00:00,Muscat,Oman,Cash on Delivery,Canceled,0.0,Africa,1999.9
 ORD-0454,anna müller,anna.müller@email.com,speaker,electronics,9.0,89.99,809.91,2024-01-02,2024-01-11 00:00:00,Paris,France,Apple Pay,Shipped,10.0,North America,728.919
-ORD-0456,Chen Wei,chen.wei@email.com,keyboard,accessories,1.0,59.99,59.99,2024-03-18,2024-03-23 00:00:00,Doha,Qatar,Google Pay,RETURNED,0.0,Africa,59.99
-ORD-0457,Ali Reza,ali.reza@email.com,stylus pen,accessories,3.0,34.99,104.97,2024-06-17,2024-07-01 00:00:00,Dammam,Saudi Arabia,Debit Card,Processing,0.0,Africa,104.97
-ORD-0458,James O'Brien,james.obrien@email.com,stylus pen,accessories,5.0,34.99,174.95000000000002,2024-12-02,2024-12-15 00:00:00,Mumbai,india,Debit Card,Processing,0.0,Africa,174.95000000000002
-ORD-0460,Ahmed Al-Farsi,ahmed.alfarsi@email.com,hdmi cable,accessories,2.0,12.99,25.98,2024-07-12,2024-07-21 00:00:00,Dammam,Saudi Arabia,Google Pay,Returned,0.0,Middle East,25.98
-ORD-0461,Maria Garcia,maria.garcia@email.com,phone case,accessories,4.0,19.99,79.96,2024-12-04,2024-12-08 00:00:00,Medina,Saudi Arabia,Google Pay,Delivered,0.0,Europe,79.96
 ORD-0462,Ali Reza,ali.reza@email.com,laptop,electronics,1.0,899.99,899.99,2024-07-06,2024-07-16 00:00:00,Khobar,Saudi Arabia,Bank Tranfer,Pending,25.0,Asia,674.9925000000001
-ORD-0464,Rajesh Patel,rajesh.patel@email.com,headphones,electronics,7.0,149.99,1049.93,2024-10-06,2024-10-17 00:00:00,Abu Dhabi,United Arab Emirates,Cash on Delivery,Delivered,0.0,North America,1049.93
-ORD-0465,John Smith,john.smith@email.com,phone case,accessories,3.0,19.99,59.97,2024-11-17,2024-11-14 00:00:00,New York,USA,Debit Card,Pending,0.0,Middle East,59.97
 ORD-0466,Sana Bukhari,sana.bukhari@email.com,smart watch,electronics,2.0,249.99,499.98,2024-06-19,2024-06-26 00:00:00,Abu Dhabi,Saudi Arabia,Cash on Delivery,Pending,5.0,Africa,474.981
-ORD-0467,Hassan Youssef,hassan.youssef@email.com,laptop,electronics,8.0,899.99,7199.92,2024-05-21,2024-05-29 00:00:00,London,UK,Cash on Delivery,Cancelled,,Africa,
 ORD-0468,Yuki Tanaka,yuki.tanaka@email.com,power bank,accessories,1.0,39.99,39.99,2024-05-10,2024-05-05 00:00:00,Riyadh,Saudi Arabia,Cash on Delivery,Shipped,20.0,Middle East,31.992
 ORD-0471,Yuki Tanaka,yuki.tanaka@email.com,stylus pen,accessories,7.0,34.99,244.93,2024-05-18,2024-05-23 00:00:00,Paris,france,Cash on Delivery,Shipped,20.0,Europe,195.94400000000002
-ORD-0472,Rajesh Patel,rajesh.patel@email.com,printer,electronics,6.0,199.99,1199.94,2024-09-11,2024-09-14 00:00:00,New York,USA,Apple Pay,Processing,0.0,Oceania,1199.94
 ORD-0473,Sophie Brown,Not Provided,external ssd,electronics,4.0,129.99,519.96,2024-05-10,2024-05-24 00:00:00,Sharjah,UAE,Credit Card,Processing,5.0,Africa,493.96200000000005
-ORD-0474,Omar Nasser,omar.nasser@email.com,printer,electronics,4.0,199.99,799.96,2024-08-26,2024-09-08 00:00:00,Khobar,Saudi Arabia,Credit Card,Returned,0.0,Europe,799.96
 ORD-0475,Rajesh Patel,rajesh.patel@email.com,tablet,electronics,6.0,499.99,2999.94,2024-03-04,2024-03-16 00:00:00,Dammam,Saudi Arabia,Cash on Delivery,Cancelled,10.0,Europe,2699.946
 ORD-0476,JAMES O'BRIEN,james.obrien@email.com,usb cable,accessories,3.0,9.99,29.97,2024-05-17,2024-05-26 00:00:00,Cairo,Egypt,Cash on Delivery,Refunded,25.0,Middle East,22.4775
 ORD-0477,Ahmed Al-Farsi,ahmed.alfarsi,headphones,electronics,2.0,149.99,299.98,2024-08-15,2024-08-25 00:00:00,Jeddah,Saudi Arabia,PayPal,Shipped,20.0,North America,239.984
 ORD-0478,Rajesh Patel,rajesh.patel@email.com,monitor,electronics,9.0,349.99,3149.91,2024-12-04,2024-12-05 00:00:00,Berlin,Germany,Credit Card,Shipped,10.0,Asia,2834.919
-ORD-0479,James O'Brien,james.obrien@@email.com,speaker,electronics,4.0,89.99,359.96,2024-10-16,2024-10-26 00:00:00,New York,USA,PayPal,Refunded,0.0,Middle East,359.96
-ORD-0480,Yuki Tanaka,yuki.tanaka@email.com,hdmi cable,accessories,5.0,12.99,64.95,2024-01-12,2024-01-14 00:00:00,Jeddah,Saudi Arabia,Apple Pay,Returned,0.0,Asia,64.95
 ORD-0481,Hassan Youssef,hassan.youssef@email.com,smart watch,electronics,8.0,249.99,1999.92,2024-05-28,2024-05-25 00:00:00,Toronto,Canada,Google Pay,Pending,5.0,Africa,1899.924
-ORD-0482,Khalid Bin Saeed,khalid.bin.saeed@email.com,external ssd,electronics,1.0,129.99,129.99,2024-04-05,2024-05-08 00:00:00,Riyadh,Saudi Arabia,Credit Card,Returned,0.0,Europe,129.99
-ORD-0483,Rajesh Patel,rajesh.patel@email.com,usb cable,accessories,1.0,9.99,9.99,2024-10-16,2024-10-28 00:00:00,Sharjah,UAE,Credit Card,Pending,0.0,Asia,9.99
 ORD-0485,Khalid Bin Saeed,khalid.bin.saeed@email.com,keyboard,accessories,3.0,59.99,179.97,2024-02-01,2024-02-14 00:00:00,Tokyo,Japan,Google Pay,pending,10.0,Africa,161.973
 ORD-0486,Isabella Rossi,isabella.rossi@email.com,external ssd,electronics,8.0,129.99,1039.92,2024-03-13,2024-03-23 00:00:00,Riyadh,KSA,Apple Pay,Shipped,20.0,Oceania,831.936
 ORD-0487,Alex Johnson,alex.johnson@email.com,stylus pen,accessories,9.0,34.99,314.91,2024-07-26,2024-08-04 00:00:00,Singapore,Saudi Arabia,Debit Card,Cancelled,20.0,Middle East,251.92800000000003
 ORD-0489,Ahmed Al-Farsi,  ahmed.alfarsi@email.com  ,laptop,electronics,10.0,899.99,8999.9,2024-02-13,2024-02-23 00:00:00,London,UK,Debit Card,Shipped,25.0,Asia,6749.924999999999
 ORD-0490,Ali Reza,ali.reza@email.com,power bank,accessories,6.0,399.9,2399.3999999999996,2024-12-09,2024-12-15 00:00:00,Khobar,Saudi Arabia,Google Pay,Returned,10.0,Asia,2159.4599999999996
-ORD-0492,Emma Wilson,emma.wilson@email.com,headphones,electronics,4.0,149.99,599.96,2024-01-09,2024-01-16 00:00:00,Singapore,Singapore,Credit Card,Delivered,0.0,Africa,599.96
 ORD-0493,Carlos Rivera,carlos.rivera@email.com,tablet,electronics,5.0,499.99,2499.95,2024-07-27,2024-07-28 00:00:00,Dubai,UAE,Credit Card,Processing,5.0,Middle East,2374.9525
-ORD-0494,JOHN SMITH,john.smith@email.com,external ssd,electronics,7.0,129.99,909.9300000000001,2024-09-15,2024-09-24 00:00:00,Tokyo,Japan,Cash on Delivery,Processing,,North America,
-ORD-0495,Fatima Hassan,fatima.hassan@@email.com,laptop,electronics,7.0,8999.9,62999.299999999996,2024-11-23,2024-11-28 00:00:00,Berlin,Germany,Google Pay,Delivered,0.0,Middle East,62999.299999999996
-ORD-0496,Ali Reza,ali.rezaemail.com,webcam,electronics,2.0,79.99,159.98,2024-12-06,2024-12-10 00:00:00,Riyadh,KSA,Apple Pay,Cancelled,0.0,Europe,159.98
-ORD-0497,carlos rivera,Not Provided,wireless mouse,electronics,2.0,29.99,59.98,2024-11-25,2024-12-02 00:00:00,London,UK,PayPal,Pending,0.0,Oceania,59.98
-ORD-0498,Tariq Mahmoud,tariq.mahmoud@email.com,stylus pen,accessories,3.0,34.99,104.97,2024-03-07,2024-03-05 00:00:00,Sharjah,Japan,Cash on Delivery,Pending,,Europe,
 ORD-0499,Rajesh Patel,Not Provided,mouse pad,accessories,8.0,14.99,119.92,2024-05-13,2024-05-24 00:00:00,Muscat,Oman,Bank Transfer,Refunded,25.0,Oceania,89.94

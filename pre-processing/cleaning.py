@@ -4,7 +4,8 @@ df  = pd.read_excel("data/raw/SalesData.xlsx")
 df.columns = df.columns.str.strip()
 df = df.drop_duplicates()
 df = df.dropna(subset=["Order_ID" , "Product" , "Category" , "Unit Price" , "Order Date" ,"Ship Date","City","Payment Method","Status"]) 
-df["Customer Name"] = df["Customer Name"].fillna("Unknown"  )
+df["Customer Name"] = df["Customer Name"].fillna("Unknown")
+
 df["Email"] = df["Email"].fillna("Not Provided"  )
 df["Country"]= df["Country"].fillna(df["Country"].mode()[0] )
 df["Region"]= df["Region"].fillna(df["Region"].mode()[0] )
@@ -14,6 +15,7 @@ df["Quantity"] = pd.to_numeric(df["Quantity"] , errors='coerce')
 df["Unit Price"]=pd.to_numeric(df["Unit Price"] , errors='coerce')
 df["Total"] = pd.to_numeric(df["Total"] , errors='coerce')
 df=df[df["Total"] > 0 ]
+df=df[df["Discount%"] > 0 ]
 df=df[df["Unit Price"] > 0 ]
 df=df[df["Quantity"] > 0 ]
 df["Total"] = df["Quantity"] * df["Unit Price"]
